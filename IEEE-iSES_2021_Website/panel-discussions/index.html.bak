@@ -1,0 +1,543 @@
+<!DOCTYPE html><html lang="en-US">
+        	
+<!-- Mirrored from ieee-ises.org/2021/panel-discussions/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 18 Nov 2023 05:02:22 GMT -->
+<head>
+
+		        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+        <title>Panel Discussions &#8211; IEEE &#8211; iSES</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='http://netdna.bootstrapcdn.com/' />
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel="alternate" type="application/rss+xml" title="IEEE - iSES &raquo; Feed" href="../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="IEEE - iSES &raquo; Comments Feed" href="../comments/feed/index.html" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ieee-ises.org\/2021\/wp-includes\/js\/wp-emoji-release.min.js?ver=b83f79ee4c56df548cbba7f349d0a40b"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='../wp-includes/css/dist/block-library/style.minc671.css?ver=b83f79ee4c56df548cbba7f349d0a40b' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='../wp-content/plugins/contact-form-7/includes/css/styles76f3.css?ver=5.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='../../../netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.minbfce.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css' href='../wp-content/plugins/templatesnext-toolkit/css/owl.carousel77e6.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-transitions-css' href='../wp-content/plugins/templatesnext-toolkit/css/owl.transitions9e1e.css?ver=1.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-css' href='../wp-content/plugins/templatesnext-toolkit/css/colorboxac45.css?ver=1.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='../wp-content/plugins/gutentor/assets/library/animatecss/animate.minf3df.css?ver=3.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tx-style-css' href='../wp-content/plugins/templatesnext-toolkit/css/tx-style60c6.css?ver=1.01' type='text/css' media='all' />
+<link rel='stylesheet' id='event-star-googleapis-css' href='http://fonts.googleapis.com/css?family=Open+Sans:400,700|Lato:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='../wp-content/themes/event-star/assets/library/bootstrap/css/bootstrap.mine485.css?ver=3.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='../wp-content/plugins/gutentor/assets/library/slick/slick.minc245.css?ver=1.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='../wp-content/plugins/gutentor/assets/library/magnific-popup/magnific-popup.minee8b.css?ver=1.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='event-star-style-css' href='../wp-content/themes/event-star/stylec671.css?ver=b83f79ee4c56df548cbba7f349d0a40b' type='text/css' media='all' />
+<style id='event-star-style-inline-css' type='text/css'>
+
+              .inner-main-title {
+                background-image:url('../wp-content/uploads/2021/02/ieee-ises-2021-slider-05.jpg');
+                background-repeat:no-repeat;
+                background-size:cover;
+                background-attachment:fixed;
+                background-position: center; 
+                height: 300px;
+            }
+            .top-header{
+                background-color: #933cdf;
+            }
+            .site-footer{
+                background-color: #112134;
+            }
+            .copy-right{
+                background-color: #0D1D31;
+            }
+	        .site-title,
+	        .site-title a,
+	        .site-description,
+	        .site-description a,
+            a:hover,
+            a:active,
+            a:focus,
+             .main-navigation .acme-normal-page .current_page_item a,
+            .main-navigation .acme-normal-page .current-menu-item a,
+            .main-navigation .active a,
+            .single-item .fa,
+			 .at-social .socials li a,
+			 .primary-color,
+			 article.post .entry-header .cat-links a,
+			 .woocommerce .star-rating, 
+            .woocommerce ul.products li.product .star-rating,
+            .woocommerce p.stars a,
+            .woocommerce ul.products li.product .price,
+            .woocommerce ul.products li.product .price ins .amount,
+            .widget li a:hover,
+            .posted-on a:hover,
+            .author.vcard a:hover,
+            .cat-links a:hover,
+            .comments-link a:hover,
+            .edit-link a:hover,
+            .tags-links a:hover,
+            .byline a:hover,
+            .main-navigation .navbar-nav >li a:hover,
+            .team-item h3 a:hover,
+            .news-notice-content .news-content a:hover,
+             #event-star-breadcrumbs a:hover,
+            .woocommerce a.button.add_to_cart_button:hover,
+            .woocommerce a.added_to_cart:hover,
+            .woocommerce a.button.product_type_grouped:hover,
+            .woocommerce a.button.product_type_external:hover,
+            .woocommerce .cart .button:hover,
+            .woocommerce .cart input.button:hover,
+            .woocommerce #respond input#submit.alt:hover,
+			.woocommerce a.button.alt:hover,
+			.woocommerce button.button.alt:hover,
+			.woocommerce input.button.alt:hover,
+			.woocommerce .woocommerce-info .button:hover,
+			.woocommerce .widget_shopping_cart_content .buttons a.button:hover,
+			.widget li a:focus,
+            .posted-on a:focus,
+            .author.vcard a:focus,
+            .cat-links a:focus,
+            .comments-link a:focus,
+            .edit-link a:focus,
+            .tags-links a:focus,
+            .byline a:focus,
+            .main-navigation .navbar-nav >li a:focus,
+            .team-item h3 a:focus,
+            .news-notice-content .news-content a:focus,
+             #event-star-breadcrumbs a:focus,
+            .woocommerce a.button.add_to_cart_button:focus,
+            .woocommerce a.added_to_cart:focus,
+            .woocommerce a.button.product_type_grouped:focus,
+            .woocommerce a.button.product_type_external:focus,
+            .woocommerce .cart .button:focus,
+            .woocommerce .cart input.button:focus,
+            .woocommerce #respond input#submit.alt:focus,
+			.woocommerce a.button.alt:focus,
+			.woocommerce button.button.alt:focus,
+			.woocommerce input.button.alt:focus,
+			.woocommerce .woocommerce-info .button:focus,
+			.woocommerce .widget_shopping_cart_content .buttons a.button:focus,
+			.woocommerce div.product .woocommerce-tabs ul.tabs li a,
+			.woocommerce-message::before{
+                color: #fd367e;
+            }
+            .navbar .navbar-toggle:hover,
+            .main-navigation .current_page_ancestor > a:before,
+            .comment-form .form-submit input,
+            .btn-primary,
+            .wpcf7-form input.wpcf7-submit,
+            .wpcf7-form input.wpcf7-submit:hover,
+            i.slick-arrow:hover,
+            .sm-up-container,
+            .btn-primary.btn-reverse:before,
+            #at-shortcode-bootstrap-modal .modal-header,
+            .primary-bg,
+            .schedule-title-wrapper .schedule-title.active a,
+			.schedule-title-wrapper .schedule-title.active a i,
+			.schedule-title-wrapper .schedule-title:hover a,
+			.team-item:hover,
+			.at-event-count-down,
+			.navigation.pagination .nav-links .page-numbers.current,
+			.navigation.pagination .nav-links a.page-numbers:hover,
+			.widget-title::after,
+			.woocommerce .product .onsale,
+			.woocommerce a.button.add_to_cart_button,
+			.woocommerce a.added_to_cart,
+			.woocommerce a.button.product_type_grouped,
+			.woocommerce a.button.product_type_external,
+			.woocommerce .single-product #respond input#submit.alt,
+			.woocommerce .single-product a.button.alt,
+			.woocommerce .single-product button.button.alt,
+			.woocommerce .single-product input.button.alt,
+			.woocommerce #respond input#submit.alt,
+			.woocommerce a.button.alt,
+			.woocommerce button.button.alt,
+			.woocommerce input.button.alt,
+			.woocommerce .widget_shopping_cart_content .buttons a.button,
+			.woocommerce div.product .woocommerce-tabs ul.tabs li:hover,
+			.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+			.woocommerce .cart .button,
+			.woocommerce .cart input.button,
+			.woocommerce input.button:disabled, 
+			.woocommerce input.button:disabled[disabled],
+			.woocommerce input.button:disabled:hover, 
+			.woocommerce input.button:disabled[disabled]:hover,
+			 .woocommerce nav.woocommerce-pagination ul li a:focus, 
+			 .woocommerce nav.woocommerce-pagination ul li a:hover, 
+			 .woocommerce nav.woocommerce-pagination ul li span.current,
+			 .woocommerce a.button.wc-forward,
+			 .woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+			 .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+			 .navbar .cart-wrap .acme-cart-views a span{
+                background-color: #fd367e;
+                color:#fff;
+            }
+            .woocommerce .cart .button, 
+            .woocommerce .cart input.button,
+            .woocommerce a.button.add_to_cart_button,
+            .woocommerce a.added_to_cart,
+            .woocommerce a.button.product_type_grouped,
+            .woocommerce a.button.product_type_external,
+            .woocommerce .cart .button,
+            .woocommerce .cart input.button
+            .woocommerce .single-product #respond input#submit.alt,
+			.woocommerce .single-product a.button.alt,
+			.woocommerce .single-product button.button.alt,
+			.woocommerce .single-product input.button.alt,
+			.woocommerce #respond input#submit.alt,
+			.woocommerce a.button.alt,
+			.woocommerce button.button.alt,
+			.woocommerce input.button.alt,
+			.woocommerce .widget_shopping_cart_content .buttons a.button,
+			.woocommerce div.product .woocommerce-tabs ul.tabs:before{
+                border: 1px solid #fd367e;
+            }
+            .blog article.sticky{
+                border-bottom: 2px solid #fd367e;
+            }
+</style>
+<link rel='stylesheet' id='event-star-block-front-styles-css' href='../wp-content/themes/event-star/acmethemes/gutenberg/gutenberg-front5152.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='../wp-content/plugins/tablepress/css/build/default1c12.css?ver=2.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css' href='../wp-includes/css/dist/components/style.minc671.css?ver=b83f79ee4c56df548cbba7f349d0a40b' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css' href='../wp-includes/css/dist/block-editor/style.minc671.css?ver=b83f79ee4c56df548cbba7f349d0a40b' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-reusable-blocks-css' href='../wp-includes/css/dist/reusable-blocks/style.minc671.css?ver=b83f79ee4c56df548cbba7f349d0a40b' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css' href='../wp-includes/css/dist/editor/style.minc671.css?ver=b83f79ee4c56df548cbba7f349d0a40b' type='text/css' media='all' />
+<link rel='stylesheet' id='gutentor-css' href='../wp-content/plugins/gutentor/dist/blocks.style.build2072.css?ver=3.2.5' type='text/css' media='all' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.min3088.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='../wp-content/themes/event-star/assets/library/html5shiv/html5shiv.min.js?ver=3.7.3' id='html5-js'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='../wp-content/themes/event-star/assets/library/respond/respond.min.js?ver=1.1.2' id='respond-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/228.json" /><link rel="canonical" href="index.html" />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed2f92.json?url=https%3A%2F%2Fieee-ises.org%2F2021%2Fpanel-discussions%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedc467?url=https%3A%2F%2Fieee-ises.org%2F2021%2Fpanel-discussions%2F&amp;format=xml" />
+
+	</head>
+<body data-rsssl=1 class="page-template-default page page-id-228 wp-custom-logo gutentor-active acme-animate no-sidebar">
+
+        <div class="site" id="page">
+                <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+                    <div class="top-header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6 text-left">
+                            <div class='at-first-level-nav at-display-inline-block text-right'><ul id="menu-top-menu" class="menu"><li id="menu-item-402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="../wp-content/uploads/2021/10/IEEE-iSES-2021_CFP-051021.pdf">iSES CFPs</a></li>
+<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a href="../submission-link/index.html">Submission Link</a></li>
+<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="../important-dates/index.html">Important Dates</a></li>
+<li id="menu-item-470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-470"><a href="https://www.linkedin.com/groups/12506886/">Linkedin Group</a></li>
+</ul></div>                        </div>
+                        <div class="col-sm-6 text-right">
+                            <ul class="socials at-display-inline-block"></ul>                        </div>
+                    </div>
+                </div>
+            </div>
+                    <div class="navbar at-navbar  event-star-sticky" id="navbar" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><i class="fa fa-bars"></i></button>
+                                                    <p class="site-title">
+                                    <a href="../index.html" title="IEEE &#8211; iSES" rel="home">IEEE &#8211; iSES</a>
+                                </p>
+                                                            <p class="site-description">20-22 Dec 2021, MNIT, Jaipur</p>
+                                            </div>
+                <div class="search-woo desktop-only">
+                                    </div>
+
+                <div class="main-navigation navbar-collapse collapse">
+                    <ul id="primary-menu" class="nav navbar-nav navbar-right acme-normal-page"><li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-355"><a href="../index.html">Home</a></li>
+<li id="menu-item-262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-262"><a href="#">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-346"><a href="#">Committees</a>
+	<ul class="sub-menu">
+		<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="../steering-committee/index.html">Steering Committee</a></li>
+		<li id="menu-item-363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="../organizing-committee/index.html">Organizing Committee</a></li>
+		<li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="../program-committee/index.html">Program Committee</a></li>
+	</ul>
+</li>
+	<li id="menu-item-263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263"><a href="../sister-conference/index.html">Sister Conference</a></li>
+	<li id="menu-item-264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-264"><a href="../privacy-policy-2/index.html">Privacy Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-265" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-265"><a href="#">Program</a>
+<ul class="sub-menu">
+	<li id="menu-item-628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-628"><a href="https://events.riftisolutions.in/ieee-ises/">Live Proceedings</a></li>
+	<li id="menu-item-613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-613"><a href="https://edas.info/p28177">Program Schedule</a></li>
+	<li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267"><a href="../keynotes/index.html">Keynotes</a></li>
+	<li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-228 current_page_item menu-item-266"><a href="index.html" aria-current="page">Panel Discussions</a></li>
+	<li id="menu-item-457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-457"><a href="../preconference-tutorials/index.html">Preconference Tutorials</a></li>
+	<li id="menu-item-511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a href="../women-in-engineering-wie/index.html">Women in Engineering (WiE)</a></li>
+</ul>
+</li>
+<li id="menu-item-519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-519"><a href="#">Register</a>
+<ul class="sub-menu">
+	<li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="../registration/index.html">Registration</a></li>
+	<li id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href="../best-paper-award/index.html">Best Paper Award</a></li>
+	<li id="menu-item-626" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-626"><a href="http://online.mnit.ac.in/eict">Register for Tutorial</a></li>
+</ul>
+</li>
+<li id="menu-item-452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-452"><a href="#">Venue</a>
+<ul class="sub-menu">
+	<li id="menu-item-377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a href="../venue/index.html">Venue</a></li>
+	<li id="menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="../places-to-see/index.html">Places To See</a></li>
+</ul>
+</li>
+<li id="menu-item-316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-316"><a href="#">Past Conferences</a>
+<ul class="sub-menu">
+	<li id="menu-item-317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-317"><a href="https://ieee-ises.org/2020/">2020 Website</a></li>
+	<li id="menu-item-472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-472"><a href="https://ieeexplore.ieee.org/xpl/conhome/9426059/proceeding">2020 Proceedings</a></li>
+	<li id="menu-item-318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-318"><a href="https://ieee-ises.org/2019/">2019 Website</a></li>
+	<li id="menu-item-319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-319"><a href="https://ieeexplore.ieee.org/xpl/conhome/8977828/proceeding">2019 Proceedings</a></li>
+	<li id="menu-item-320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-320"><a href="https://ieee-ises.org/2018/">2018 Website</a></li>
+	<li id="menu-item-321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-321"><a href="https://ieeexplore.ieee.org/xpl/conhome/8716489/proceeding">2018 Proceedings</a></li>
+	<li id="menu-item-322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-322"><a href="https://ieee-ises.org/2017/">2017 Website</a></li>
+	<li id="menu-item-323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-323"><a href="https://ieeexplore.ieee.org/xpl/conhome/8293729/proceeding">2017 Proceedings</a></li>
+	<li id="menu-item-324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-324"><a href="https://ieeexplore.ieee.org/xpl/conhome/7827705/proceeding">2016 Proceedings</a></li>
+	<li id="menu-item-325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-325"><a href="https://ieee-ises.org/2015/">2015 Website</a></li>
+	<li id="menu-item-326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-326"><a href="https://ieeexplore.ieee.org/xpl/conhome/7434373/proceeding">2015 Proceedings</a></li>
+</ul>
+</li>
+<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="../contact/index.html">Contact</a></li>
+</ul>                </div><!--/.nav-collapse -->
+            </div>
+        </div>
+        	<div class="wrapper inner-main-title">
+		<div class="container">
+			<header class="entry-header init-animate">
+				<h1 class="entry-title">Panel Discussions</h1><div class='breadcrumbs init-animate'><div id='event-star-breadcrumbs'><div role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="../index.html" rel="home" itemprop="item"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li class="trail-item trail-end"><span><span>Panel Discussions</span></span></li></ul></div></div></div>			</header><!-- .entry-header -->
+		</div>
+	</div>
+	<div id="content" class="site-content container clearfix">
+		<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+			<article id="post-228" class="init-animate post-228 page type-page status-publish hentry">
+		<!-- .single-feat-->
+	<div class="content-wrapper">
+		<div class="entry-content">
+			<h3 style="text-align: center;">IEEE-iSES 2021 Expert Panel Proposal</h3>
+<h2 style="text-align: center;">IoT Empowered Solutions for Smart Villages</h2>
+<p style="text-align: center;"><strong>Moderator :</strong> Himanshu Thapliyal, University of Kentucky, Lexington, USA</p>
+<h4>Panelists :</h4>
+<ul>
+<li>Himanshu Thapliyal, University of Kentucky, USA, hthapliyal@ieee.org</li>
+<li>Saraju P. Mohanty, University of North Texas, USA, smohanty@ieee.org</li>
+<li>Rajnish Bajpai, SmartGaon Development Foundation, USA, rajnishbajpai@gmail.com</li>
+<li>Bob Frankston, USA, edas@bob.ma</li>
+</ul>
+<p style="text-align: justify;">Smart villages target rural areas to develop innovative solutions to improve the quality of life and provide growth opportunities to its residents. The systems of the smart villages are essentially cyber-physical systems or CPS which are built using the Internet of Things (IoT). Research on ‘IoT Empowered Solutions for Smart Villages’ encompasses sensors, cloud computing, edge computing, big data, wearable devices, and related technologies for the energy-efficient, secure, and robust design. Thus, the development of IoT empowered solutions for Smart Villages needs the investigation of several factors such as energy efficiency, security, privacy, computational performance, reliability, and flexibility, which necessitates rigorous research.</p>
+<p style="text-align: justify;">This panel intends to serve as a forum to present and discuss state-of-the-art techniques and IoT-enabled solutions for empowering villages. The topics that are of interests to the panel include, but are not limited to the following:</p>
+<ul>
+<li>IoT empowered solutions for smart healthcare</li>
+<li>IoT empowered solutions for smart education</li>
+<li>IoT empowered solutions for smart farming, irrigation, and water management</li>
+<li>IoT empowered solutions for smart governance</li>
+<li>IoT empowered solutions for smart cars and smart transportation</li>
+<li>IoT empowered energy-harvesting for smart village</li>
+<li>IoT empowered solutions for smart homes/huts</li>
+<li>Security and Privacy solutions for smart village</li>
+<li>Artificial Intelligence (AI) and machine learning solutions for smart village</li>
+</ul>
+<h3>Biography of Panelists :</h3>
+<h4 style="text-align: center;">Dr. Himanshu Thapliyal</h4>
+<p><img decoding="async" class="wp-image-497 size-thumbnail aligncenter" src="../wp-content/uploads/2021/07/Dr-Himanshu-Thapliyal-150x150.jpg" alt="" width="150" height="150" /></p>
+<p style="text-align: justify;"><em><strong>Dr. Himanshu Thapliyal</strong></em> is an Associate Professor with the Department of Electrical and Computer Engineering, University of Kentucky, Lexington, KY, USA. From 2012-14, he worked as a designer of processor test solutions at Qualcomm, where he received the Qualcomm QualStar Award for contributions to memory built-in self-tests. He has been ranked in the top 50 among scientists throughout the world in the field of ‘Computer Hardware and Architecture’ for the 2019 calendar year (PLOS Biology database). He is the recipient of the 2019 NSF CAREER award and the 2020 Mid-Career Research Achievement Award from the IEEE CS Technical Committee on VLSI. He has authored over 150 journal/conference articles with H-index=38 and received Best Paper awards at the 2021 IEEE International Conference on Consumer Electronics (ICCE), 2020 IEEE World Forum on Internet of Things, 2017 Cyber and Information Security Research Conference (CISR), and 2012 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). He is the steering committee vice-chair of the IEEE Symposium on Smart Electronic Systems. He served as the General Chair of the 2020 IEEE Symposium on Smart Electronic Systems. He served as the Program Chair of the 2020 IEEE International Conference on Consumer Electronics, 2019 IEEE Computer Society Annual Symposium on VLSI, and 2018 IEEE Symposium on Smart Electronic Systems. He co-founded the International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA). He is serving as the Section Editor of the Springer Nature Computer Science and is leading two sections: (i) Quantum Computing and Emerging Technologies, and (ii) Emerging Trends in Sensors, IoT and Smart Systems. He is also serving as the Senior Associate Editor of the IEEE Consumer Electronics Magazine, Associate Editor of the IEEE Internet of Things Journal, and the editorial board member of the Microelectronics Journal. His research interests include hardware security of IoT and vehicles, the circuit design of emerging technologies including quantum computing, and smart healthcare.</p>
+<hr />
+<h4 style="text-align: center;">Dr. Saraju P. Mohanty</h4>
+<p><img decoding="async" class="size-thumbnail wp-image-498 aligncenter" src="../wp-content/uploads/2021/07/Dr.-Saraju-P.-Mohanty-150x150.jpg" alt="" width="150" height="150" /></p>
+<p style="text-align: justify;"><em><strong>Dr. Saraju P. Mohanty</strong></em> is a Professor at the University of North Texas. Prof. Mohanty’s research is in “Smart Electronic Systems” which has been funded by NSF, SRC, US Air Force, IUSSTF, and Mission Innovation. He has over 20 years of research experience on security and protection of media, hardware, and system. He introduced the Secure Digital Camera (SDC) in 2004 with built-in security features designed using Hardware-Assisted Security (HAS) or Secure by Design (SbD) principle. His the widely credited as the designer for the first digital watermarking chip in 2004 and first the low-power digital watermarking chip in 2006. He has authored 350 research articles, 4 books, and invented 4 US patents. His Google Scholar h-index is 42 and i10-index is 162 with 7600 citations. He is a recipient of 13 best paper awards, Fulbright Specialist Award in 2020, IEEE Consumer Technology Society Outstanding Service Award in 2020, the IEEE-CS-TCVLSI Distinguished Leadership Award in 2018, and the PROSE Award for Best Textbook in Physical Sciences and Mathematics category in 2016. He has delivered 11 keynotes and served on 12 panels at various International Conferences. He has been serving on the editorial board of several peer-reviewed international journals, including IEEE Transactions on Bigdata, IEEE Transaction on CAD, ACM Journal on Emerging Topics in Computing, and IEEE Transactions on Consumer Electronics. He has served as the Editor-in-Chief (EiC) of the IEEE Consumer Electronics Magazine since 2017. He has served as the Chair of IEEE-CS Technical Committee on VLSI (TCVLSI) during 2014-2018 and on the Board of Governors of the IEEE Consumer Technology Society during 2019-2021. He is the founding steering committee chair for the IEEE International Symposium on Smart Electronic Systems (iSES), steering committee vice-chair of the IEEE-CS Symposium on VLSI (ISVLSI), and steering committee Chair of the OITS International Conference on Information Technology (OCIT). He has mentored 2 post-doctoral researchers, and supervised 13 Ph.D. dissertations, 26 M.S. theses, and 10 undergraduate projects.</p>
+<hr />
+<h4 style="text-align: center;">Mr. Rajnish Bajpai</h4>
+<p><img decoding="async" class="size-thumbnail wp-image-499 aligncenter" src="../wp-content/uploads/2021/07/Mr.-Rajnish-Bajpai-150x150.jpg" alt="" width="150" height="150" /></p>
+<p style="text-align: justify;"><em><strong>Mr. Rajnish Bajpai</strong></em> is the Founder &amp; Chairman of the SmartGaon Development Foundation. The foundation provides an outreach platform to non-profits, private/public/government organizations of various sectors to come together for an innovative &amp; collaborative approach towards integrated development of rural areas. He designed a SmartGaon app and platform that not only connects an entire village population internally but also with the smart cities and globally. His innovation &amp; contribution towards rural India is mentioned and admired by Prime Minister of India, Shri Narendra Modi in the nationwide public address program called Mann Ki Baat. He is also a senior product manager at a renowned US-based product company and specialized in agile analytics &amp; digital enterprise transformation. He has a strong interest in building next-generation systems/products with AI and ML to improve productivity.</p>
+<hr />
+<h4 style="text-align: center;">Robert M. Frankston</h4>
+<p><img decoding="async" loading="lazy" class="size-thumbnail wp-image-500 aligncenter" src="../wp-content/uploads/2021/07/Robert-M.-Frankston-150x150.jpg" alt="" width="150" height="150" /></p>
+<p style="text-align: justify;"><em><strong>Robert M. Frankston</strong></em> is is best known for writing VisiCalc &#8211; the first electronic spreadsheet. While at Microsoft, he was instrumental in enabling home networking. Today, he is addressing the issues associated with coming to terms with a world being transformed by software. Frankston became an outspoken advocate for reducing the role of telecommunications companies in the evolution of the Internet, particularly with respect to broadband and mobile communications. He coined the term &#8220;Regulatorium&#8221; to describe what he considers collusion between telecommunication companies and their regulators that prevents change.</p>
+<hr />
+<h2 style="text-align: center;">The March to Edge Computing, are we there?</h2>
+<p style="text-align: center;"><strong>Moderator :</strong> Preet Yadav, R &amp; D SOC Technical Program Manager, Automotive Business</p>
+<p style="text-align: center;">NXP Semiconductors, Noida, India</p>
+<h4>Panelists:</h4>
+<ul>
+<li>Sunita Verma, Scientist &#8216;G&#8217; / Sr. Director, Microelectronics, Nanotechnology and Medical Electronics &amp; Health Informatics Divisions, Ministry of Electronics &amp; Information Technology (MeitY)</li>
+<li>Amita Dev, Vice-Chancellor, Indira Gandhi Delhi Technical University for Women, Delhi</li>
+<li>Vikas Rana, Head of the Technology Group, Forschungszentrum Jülich, North Rhine-Westphalia, Germany</li>
+<li>Manish Anand, CEO, Technology Innovation Hub, IIT Roorkee, Roorkee</li>
+</ul>
+<p style="text-align: justify;">Technology has revolutionized the world in last two decade. This revolution has given birth to tremendous technology applications across all sectors. Some of the big contributors are Artificial Intelligence (AI), Machine Learning (ML), Virtual Reality (VI), Augmented Reality (AR), Internet of Things (IoT). These real time applications are generating big chunk of data. This massive data needs on the fly processing, to make best use of information in a meaningful manner, to warrant appropriate action. This demand of aggressive processing in turn has pushed the movement of Traditional Computing to Edge Computing. In this panel we will discuss the take of our expert panelist on this mega shift to Edge Computing.</p>
+<h4>Biography of Panelists :</h4>
+<p><img decoding="async" loading="lazy" class="size-thumbnail wp-image-540 aligncenter" src="../wp-content/uploads/2021/09/Preet-Yadav-150x150.jpg" alt="" width="150" height="150" /></p>
+<p style="text-align: justify;"><em><strong>Preet Yadav</strong></em> is R &amp; D SOC Technical Program Manager for Automotive Group at NXP Semiconductors. Prior to re-joining NXP in his second stint, he was working with Wipro as Analog Practice Head, Distinguished Member of Technical Staff (DMTS) &#8211; Wipro Senior Member, taking care of Analog &amp; Mixed Signal Practice globally in VLSI Technology Group.</p>
+<p style="text-align: justify;">He has close to two decades of enriched Research &amp; Development experience in the diversified Semiconductor industry. His expertise includes Analog and Mixed Signal (AMS) design &amp; verification, core technology development of Process Design Kits (PDK) and Electronic Design Automation (EDA). He received B. Tech. degree in ECE from Kurukshetra University and M. Tech. degree in VLSI Design &amp; CAD from Thapar Institute of Engineering &amp; Technology.</p>
+<p style="text-align: justify;">In past he worked at Semiconductor Complex Ltd. and, Cadence Design Systems. During his first stint at Freescale/NXP Semiconductor, he worked on development of Process Design Kits, leading handful of technologies from matured to advance nodes. Further, he worked on Analog and Mixed Signal SOC Verification in Automotive Microcontrollers and Processors R &amp; D at NXP.</p>
+<p style="text-align: justify;">He is leading Northern Region Electronics Forum (NEF) in collaboration with India Electronics &amp; Semiconductor Association (IESA) &amp; VLSI Society of India (VSI). He is Member of IEEE CEDA India Council, Executive Committee member of IEEE Circuits and Systems Society (CAS), Bangalore Chapter. Member of IEEE CAS AdHoc Committee on Digital Communication and IEEE Education Activities Committee. He received President Award in Scouts &amp; Guides and accolade with various awards/certificates of merit throughout his academics and industrial endeavor.</p>
+<p style="text-align: justify;">He has 22 publications in international/national IEEE conferences, with three best paper awards on his name. He has delivered several keynote/invited talks, tutorials, and participated in panel discussion at various forums across globe. He has acted as member of technical paper review and various positions of organizing committee for many international technical conferences in the field of VLSI. He is examiner for post graduates thesis from Tier-1 technical institute and universities in India.</p>
+<p style="text-align: justify;">He is Fellow Member of The Institution of Electronics Telecommunication Engineers (IETE), Senior Member of Institute of Electrical and Electronics Engineers (IEEE), lifetime member of Indian Microelectronics Society (IMS) and Indian Society of Systems for Science and Engineering (ISSE). He is member of VLSI society of India (VSI). He is core team member of VLSI Design (VLSID) Conference Steering Committee. He is actively associated with multiple community relations groups. He has served as General Chair of ‘The 32nd International Conference on VLSI Design &amp; 18th International Conference on Embedded Systems (VLSID 2019)’.</p>
+<p><img decoding="async" loading="lazy" class="size-thumbnail wp-image-541 aligncenter" src="../wp-content/uploads/2021/09/Sunita-Verma-150x150.jpg" alt="" width="150" height="150" /></p>
+<p style="text-align: justify;"><em><strong>Sunita Verma</strong></em> obtained her engineering degree in Computer Science from Institute of Engineering and Technology Lucknow in 1990 and joined Ministry of Electronics and Information Technology in Microelectronics Development Division as Scientific Officer.</p>
+<p style="text-align: justify;">Since then, she had been associated with MeitY and, as Senior Director, MeitY, playing a crucial role in evolving R&amp;D base in Microelectronics, Nanotechnology, and Medical Electronics areas across the country by way of conceptualizing government policies, developing R&amp;D projects at academic institutions and creating state-of-the-art VLSI labs &amp; Nano fabrication facilities across the country.</p>
+<p style="text-align: justify;">During her stint at MeitY, she was closely associated with implementation of Special Manpower Development Programme for Chips to Design Design at 60 academic institutions which has helped the country in gaining VLSI design share globally.<br />
+Other successfully implemented Programmes like Microprocessor Development Programme has provided the country first 64- bit Microprocessor based on open source RISC-V ISA.She has also been involved in implementation of NaviC Receiver in close consultation with ISRO.</p>
+<p style="text-align: justify;">To keep up the pace with Technological advancements, she had been instrumental in setting up of Nanofabrication facilities at various IITs &amp; IISc which has resulted in development of not only trained manpower in this niche area but also a variety of sensors for various societal applications. She is also heading High Performance Computing area wherein Government envisages setting up of state-of-the-art Supercomputers in the country.</p>
+<p style="text-align: justify;">While promoting research in healthcare sector, she, in close consultation with medical fraternity, is involved in implementation of projects for indigenous development of MRI, Ultrasound and High Energy LiNAC Machines in the country.</p>
+<p style="text-align: justify;">Her recent contribution in promotion of fabless industry has resulted in formulation of National Policy in Electronics 2019 which strategize the holistic approach of proliferating ESDM ecosystem in the country.</p>
+<p><img decoding="async" loading="lazy" class="size-thumbnail wp-image-543 aligncenter" src="../wp-content/uploads/2021/09/Dr.-Amita-Dev-2-150x150.jpg" alt="" width="150" height="150" /></p>
+<p style="text-align: justify;"><em><strong>Dr. Amita Dev</strong></em> is the First Pro-Vice Chancellor and Second Vice-Chancellor of Indira Gandhi Delhi Technical University for Women, Delhi. She is a true leader, excellent administrator and passionate and very active researcher. She is doing extensive research in the field of Artificial Neural Networks, Speech Processing, Speech Modelling, Speech Recognition, Speech Synthesis etc. Having vast experience of more than 33 years, she has unparallel track record of Administration, quality Teaching, Innovation and Research. She has published 95+ research papers in Renowned International and National Journals and Conference Proceedings. She is an avid speaker and a great motivator and has been invited at various National and International forums.</p>
+<p style="text-align: justify;">In recognition to her valuable and worthy research contributions, she has been conferred with many awards viz.</p>
+<ul style="text-align: justify;">
+<li>“National Level AICTE Young Teacher Career Award” with Research Grant for pursuing Advanced Research in the area of “Hindi Speech Recognition Using Connectionist Model”,</li>
+<li>“State Level Best Teacher Award” awarded by GNCT of Delhi,</li>
+<li>“National Level Best Engineering Teacher Award” by ISTE for significant contribution in the field of Research and Technology,</li>
+<li>Raja Ram Babu Patil National Level Award” by Indian Society for Technical Education, “National Level ECONS Education Excellence Award” for Academic Excellence,</li>
+<li>“Vittiya Saksharta Abhiyan Award” by the Hon’ble Minister for HRD, GoI for spreading Digital Literacy</li>
+<li>Numerous Appreciation letters from State/Center for the Exemplary Performance, Dedication and Devotion towards the work/ duty and for Outstanding Contribution in the field of Technical Education.</li>
+</ul>
+<p style="text-align: justify;">Under her able leadership and guidance, IGDTUW has achieved several milestones in a short span. The University secured 2nd rank in the category of Higher Educational Institutions Exclusively for Women and in Band ‘A’ overall in the award ceremony of Atal Ranking of Institutions on Innovation Achievements (ARIIA) Rankings 2020. Also, because of her sincere efforts and persuasion towards excellence, University has been ranked 21st in Entrepreneurial Spirit and 77th under Global Top 100 Innovative Universities by World University Ranking Impact (WURI). University has been bestowed with Diamond Rating from QS I-Gauge. Recently, University has been conferred Shrimati Sushma Swaraj “STREE SHAKTI SAMMAN” due to its vision and commitment.</p>
+<p><img decoding="async" loading="lazy" class="size-thumbnail wp-image-545 aligncenter" src="../wp-content/uploads/2021/09/Dr.-Vikas-Rana-150x150.png" alt="" width="150" height="150" /></p>
+<p style="text-align: justify;"><em><strong>Dr. Vikas Rana</strong></em> received his Ph D in semiconductor device and technology at Delft university of Technology, Netherlands in 2006. He worked at Philips semiconductor, IMEC and IIT Delhi. Since 2011, he has been leading an emerging NVM technology group at Forschungzentrum, Juelich. His main research interests include memristive devices based on metal oxides (ReRAM) and integration with advanced CMOS technology. He has published several journal and well renowned international conferences papers. He is also author of a chapter on “Redox-Based Memristive Devices” in Memristors and Memristive Systems book published by Springer NY in 2014.</p>
+<p><img decoding="async" loading="lazy" class="size-thumbnail wp-image-546 aligncenter" src="../wp-content/uploads/2021/09/Manish-Anand-150x150.jpg" alt="" width="150" height="150" /></p>
+<p style="text-align: justify;"><em><strong>Manish Anand</strong></em> is currently CEO of iHUB DivyaSampark, Technology Innovation Hub at IIT Roorkee. This section 8 company was set up by Govt. of India under National mission on interdisciplinary Cyber Physical Systems to promote innovation for industry 4.0 and society 5.0.</p>
+<p style="text-align: justify;">Manish Anand is an alumnus of IIT Kanpur where he completed his B-Tech (1996-2000) in Materials Science and Engineering. He holds MS degree in Materials Science from Gwangju Institute of Technology (GIST), S. Korea followed by an MBA degree with specialization in Technology and Innovation Management from Korea Advanced Institute of Science and Technology (KAIST), South Korea. Manish also co-founded two social ventures in healthcare and education sector. Prior to his entrepreneurial journey, Manish served as Head of Financial services of Fiat-Chrysler Automobiles (FCA) India and Hyundai capital India. Before returning to India, Manish was based out of Seoul at global head-quarter of Hyundai Capital Services and was involved with global planning and strategy team.</p>
+<hr />
+<h2 style="text-align: center;">Digital Transformation</h2>
+<p style="text-align: center;"><strong>Moderator:</strong> Vinayak Godse, Vice President, Data Security Council of India</p>
+<h4>Panelists:</h4>
+<ul>
+<li>Virendra Singh, Professor, Dept. of Electrical Engineering &amp; Dept. of Computer Science &amp; Engineering, Indian Institute of Technology (IIT) Bombay</li>
+<li>Sudeb Dasgupta, Head, Professor, Department of Electronics and Communication Engineering, Project Director, DivyaSampark i-Hub Technology Innovation Hub, IIT Roorkee</li>
+<li>Akhilesh Srivastava, Senior Scientist at SINTEF, Norway.</li>
+<li>Narendra Saini, Chief Digital and Data Officer (CDO), Lupin Pvt Ltd, Pune, India</li>
+<li>Sandeep Aurora from India Electronics &amp; Semiconductor Association</li>
+</ul>
+<p style="text-align: justify;">In last two decades there is a huge shift from a conventional way of working to digital way of working. Digitalization has revolutionized our personal, social and professional lives. COVID-19 has forced us to rethink all of our traditional actions and in a way has fast tracked many of the digital initiative which otherwise might have taken a longer trajectory to come to implementation. In this panel we will deliberate how the world has undergone a huge Digital Transformations, what are pros and cons of this and what next, we can expect in the times to come.</p>
+<p style="text-align: justify;">In this panel we will discuss the take of our expert panelist on this mega shift to Digital Transformations.</p>
+<h4>Biography of Panelists:</h4>
+<p><img decoding="async" loading="lazy" class="size-full wp-image-557 aligncenter" src="../wp-content/uploads/2021/10/Vinayak-Godse.jpg" alt="" width="140" height="140" /></p>
+<p style="text-align: justify;"><em><strong>Vinayak Godse</strong></em> has 26 plus years of experience in Information Security, IT Transformation, Telecom Switching Infrastructure, Intelligent Networking, and Broadband Infrastructure.</p>
+<p style="text-align: justify;">He is working as Vice President, Data Security Council of India, a not-for-profit company set by NASSCOM, an IT and BPM company&#8217;s industry body. He oversees DSCI’s initiatives to enhance security and privacy culture in the country, create trust in cyberspace, build cybersecurity industry in the country, enact a conducive policy environment, build critical capabilities and skills for cybersecurity, develop security community, and foster global partnership.</p>
+<p style="text-align: justify;">He is also engaged in the DSCI outreach program at national and international platforms in establishing collaboration with different legal and regulatory bodies, data protection authorities, global clients, and outsource service providers of all categories, including small and medium players. He is the principal author of the DSCI Security Framework (DSF) and DSCI Privacy Framework (DPF). He was instrumental in developing privacy credential program, DSCI Certified Privacy Lead Assessor (DCPLA) and DSCI Certified Privacy Professional [DCPP]. He has been advising DSCI members on their data protection strategies , and also overseeing efforts for privacy innovation and engineering in the country.</p>
+<p style="text-align: justify;">He is also closely working with the government bodies involved in policymaking and capability building in national cybersecurity, data protection, and data policies.</p>
+<p style="text-align: justify;">Vinayak contributes to the national and sectoral initiatives on various initiatives, including empanelment auditors by CERT-In, RBI sub-committees on cybersecurity, various committees set up for national cybersecurity and data protection agenda. He was also involved in developing the National Information Security Policy Guidelines [NISPG] for internal security, working with the Department of Commerce and MEA on transborder data flow and global cybersecurity norms, etc.</p>
+<p style="text-align: justify;">He is engaged in cybersecurity industry building in the country, fostering security research and product engineering, security product and service export, and building an ecosystem for security product entrepreneurship. He also leads the National Centre of Excellence for Cybersecurity Technology and Entrepreneurship, a joint initiative of DSCI and MeitY.</p>
+<p style="text-align: justify;">Before joining DSCI, he worked with the Global Consulting Practice of Tata Consultancy Services (TCS) as a Consultant, Information Risk Management, and as a Telecom Engineer at Bharat Sanchar Limited. Before that, he was working with DOT and BSNL in core telecom switching, mobility, and intelligent networking.</p>
+<p><img decoding="async" loading="lazy" class="size-thumbnail wp-image-558 aligncenter" src="../wp-content/uploads/2021/10/Virendra-Singh-150x150.jpg" alt="" width="150" height="150" /></p>
+<p style="text-align: justify;"><em><strong>Virendra Singh</strong></em> obtained Ph.D in Computer Science from Nara Institute of Science and Technology (NAIST), Nara, Japan. Currently, he is serving as a Professor at Indian Institute of Technology (IIT) Bombay jointly with the Dept. of Electrical Engineering, and the Dept. of Computer Science and Engineering. Prior to join IIT Bombay, he served as a faculty member at Supercomputer Education and Research Centre (current Computational and Data Science department), Indian Institute of Science (IISc), Bangalore from 2007 to 2011. He also served Central Electronics Engineering Research Institute (CEERI), Pilani, India as a Scientist from 1997 to 2007. His research interests are high performance computer architecture, VLSI testing, formal verification, cyber physical systems, trustworthy AI, and cyber security. He has published about 175 research papers in various journals and international conferences. He is a convener of India-Japan joint research laboratory on intelligent dependable cyber physical systems. His current research focus is towards development of AI powered adaptive cyber defence system. He is also serving as an Adjunct Professor at Peter the Great St. Petersburg Polytechnic University, Russia.</p>
+<p style="text-align: justify;">He is a member of the IEEE, the ACM, the VSI, and life member of the IETE. He served as a Program Chair and General Chair of couple of conferences. He is a co-founder of an annual research forum RASDAT (Reliability Aware System Design and Test) workshop.</p>
+<p><img decoding="async" loading="lazy" class="size-thumbnail wp-image-559 aligncenter" src="../wp-content/uploads/2021/10/S.-Dasgupta-150x150.png" alt="" width="150" height="150" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p style="text-align: justify;"><em><strong>S. Dasgupta</strong></em>, is presently working as a Professor, in the Department of Electronics and Communication Engineering at Indian Institute of Technology, Roorkee. He received his PhD degree in Electronics Engineering from Indian Institute of Technology-Banaras Hindu University, Varanasi in 2000. During his PhD work, he carried out research in the area of effects of ionizing radiation on MOSFET. Subsequently, he was member of faculty of Department of Electronics Engg., at Indian School of Mines, Dhanbad. In 2006, he joined as an Assistant Professor in the Department of Electronics and Communication Engineering at Indian Institute of Technology, Roorkee. He is currently the group head of Microelectronics and VLSI of the Department. He is also the Chairman, Departmental Academic Programme Committee. He was the Chairman of the Faculty Search Committee of the Department. He has authored/co-authored more than 250 research papers in peer reviewed international journals and conferences. He is a member of IEEE, EDS, ISTE and associate member of Institute of Nanotechnology, UK. He has been a technical committee member International Conference on Micro-to-Nano, 2006; he has been acting as an expert member of The Global Open University, The Netherlands. He was awarded with Erasmus Mundus Fellowship of European Union in the year 2010 to work in the area of RDF at Politecnico Di Torino, Italy. He is the recipient of prestigious IUSSTF to work in the area of SRAM testing at University of Wisconsin at Madison, USA in the year 2011-12. He was also awarded with DAAD Fellowship to work on Analog Design using Reconfigurable Logic at TU, Dresden, Germany in the year 2013. He is also a recipient of Humboldt Fellowship to work at TU, Illemenau, Germany. He is the Principal Coordinator for SMDP-C2SD at IIT Roorkee (one of the Resource Center) which is a 3 crore multi institutional project for system development, sponsored by MeiTy, Government of India. He has project worth 5 crores approximately as a PI or Co-PI. He is also heading the Technology Innovation Hub (TIH) Divyasampark worth Rs 135 cr as Project Director.</p>
+<p style="text-align: justify;">His areas of interest are Nanoelectronics, Nanoscale MOSFET modeling and simulation, Design and Development of low power novel devices, FinFET based Memory Design, Emerging Devices in Analog Design and Design and development of reconfigurable logic. He has guided 18 Ph.D scholars. Currently he is supervising around 6 candidates leading to their Ph.D degree. He has been nominated for INAE, Young Engineer Award. Dr. Dasgupta acted as a reviewer for IEEE Transactions on Electron Devices, IEEE Electron Device Letters, IEEE Transactions on Nanotechnology, Superlattice and Microstructures, International Journal of Electronics, Semiconductor Science and Technology, Nanotechnology, IEEE Transactions on VLSI Systems, Microelectronic Engineering, Microelectronic Reliability amongst other. He has also been member of technical committees of various international conferences.</p>
+<p><img decoding="async" loading="lazy" class="size-thumbnail wp-image-560 aligncenter" src="../wp-content/uploads/2021/10/Dr.-Akhilesh-Kumar-Srivastava-150x150.jpg" alt="" width="150" height="150" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p style="text-align: justify;"><em><strong>Dr. Akhilesh Kumar Srivastava</strong></em> is a Senior Scientist at SINTEF (Norway). Currently, his activities are mainly focused on digital transformation of process industries and digitalized manufacturing. He is the project manager of two European Union Horizon 2020 projects, COGNITWIN and DIY4U.</p>
+<p style="text-align: justify;">Prior to joining SINTEF, he worked at Miljøbil Greenland (Norway) and Risø DTU National Laboratory for Sustainable Energy (Denmark). He also served Visiting Scientist positions at ERI@N (Singapore) and Elettra Sincrotrone Trieste (Italy). He has more than 15 years of experience working in the areas of process technology &amp; digitalization, energy conversion &amp; storage devices and materials technology in the projects funded by industries, EU and national funding agencies of Norway, Denmark &amp; Singapore.</p>
+<p style="text-align: justify;">He has several international patent applications to his credit and published articles in various international journals, book, and conference proceedings. He delivered lectures in many international conferences.</p>
+<p style="text-align: justify;">Dr. Srivastava received his M.Tech. from IIT Bombay (India) and Ph.D. from NTU (Singapore). He also attended Executive Education program at MIT Sloan School of Management (USA).</p>
+<p><img decoding="async" loading="lazy" class="size-thumbnail wp-image-561 aligncenter" src="../wp-content/uploads/2021/10/Narendra-Saini-150x150.jpg" alt="" width="150" height="150" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p style="text-align: justify;"><em><strong>Narendra Saini</strong> </em>is a well-known Digital Transformation Leader and Strategist in the space of Internet of Things &amp; Digital Technologies, Strategy, Innovation, and Industry 4.0. He brings more than 22 years of excellent mix from Products &amp; Services organizations; P&amp;L, Technology, Business Development and People Management. Coupled with entrepreneurial background, he brings key ingredients of a Digital Leader with experience in Smart Manufacturing/Industry 4.0, Sales &amp; Marketing, and Supply Chain Management. He has experience in both process and discrete industries such as Steel, Pharma, Automotive, Tier-1, Tier-2 and Connected Vehicles (PV/CV). He is an acclaimed industry speaker at international forums and had held workshops for business leaders including CXOs globally on IoT &amp; Analytics led Digital Transformation. He has been listed in the top 50 innovators in India for his social entrepreneurial product in 2011 by DST and FICCI. Narendra holds dual master’s with Master of Technology from IIT-Delhi and Master of Science in Physics from IIT-Roorkee.</p>
+<p style="text-align: justify;">He currently works in the capacity of Chief Digital and Data Officer (CDO) at Lupin and is responsible for Digital Transformation initiatives within the organization. Prior to this he had been associated with Reliance Unlimit, Tata Technologies, Sukrut Systems, Tejas Networks, Philips Semiconductor (now NXP) leading Technology &amp; Services, Head of Product Management, R&amp;D, Consulting and Strategy in the space of Connected Vehicle, Industry 4.0, Supply Chain, DSPs, Data Analytics &amp; Monetization. He has looked after IT, CISO and E-2-E Services Operations. He is also associated with start-up ecosystem with start-ups in different phases of their growth.</p>
+<p><img decoding="async" loading="lazy" class="size-thumbnail wp-image-629 aligncenter" src="../wp-content/uploads/2021/12/Sandeep-IESA-Picture-150x150.jpg" alt="" width="150" height="150" srcset="https://ieee-ises.org/2021/wp-content/uploads/2021/12/Sandeep-IESA-Picture-150x150.jpg 150w, https://ieee-ises.org/2021/wp-content/uploads/2021/12/Sandeep-IESA-Picture-300x300.jpg 300w, https://ieee-ises.org/2021/wp-content/uploads/2021/12/Sandeep-IESA-Picture-1024x1024.jpg 1024w, https://ieee-ises.org/2021/wp-content/uploads/2021/12/Sandeep-IESA-Picture-768x768.jpg 768w, https://ieee-ises.org/2021/wp-content/uploads/2021/12/Sandeep-IESA-Picture.jpg 1080w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p style="text-align: justify;"><em><strong>Mr. Sandeep Aurora</strong></em> from India Electronics &amp; Semiconductor Association, the premier industry body representing electronics &amp; semiconductor industry which works closely with the Industry &amp; Government to bring forward looking policies &amp; create a positive business environment for the industry growth in India, previously having spent 20 years at Intel having joined Intel as the Initial / First team &amp; helped Intel build its presence &amp; business in India over 20 years in various leadership roles.</p>
+<p>&nbsp;</p>
+		</div><!-- .entry-content -->
+        	</div>
+</article><!-- #post-## -->		</main><!-- #main -->
+	</div><!-- #primary -->
+    </div><!-- #content -->
+<div class="clearfix"></div>
+        <footer class="site-footer">
+                        <div class="copy-right">
+                <div class='container'>
+                    <div class="row">
+                        <div class="col-sm-6 init-animate">
+                            <div class="footer-copyright text-left">
+                                                                    <p class="at-display-inline-block">
+                                        &copy; IEEE-iSES                                    </p>
+                                                                <div class="site-info at-display-inline-block">
+				                      <a href="http://www.acmethemes.com/" rel="designer"></a> 
+                                </div><!-- .site-info -->
+                            </div>
+                        </div>
+                        <div class="col-sm-6 init-animate">
+                                                    </div>
+                    </div>
+                </div>
+                <a href="#page" class="sm-up-container"><i class="fa fa-angle-up sm-up"></i></a>
+            </div>
+        </footer>
+        <!-- Modal -->
+        <div id="at-shortcode-bootstrap-modal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+					                        </div>
+				                    </div><!--.modal-content-->
+            </div>
+        </div><!--#at-shortcode-bootstrap-modal-->
+
+        </div><!-- #page -->
+    <script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/swv/js/index76f3.js?ver=5.7.3' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/ieee-ises.org\/2021\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/index76f3.js?ver=5.7.3' id='contact-form-7-js'></script>
+<script type='text/javascript' src='../wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='../wp-includes/js/masonry.min3a05.js?ver=4.2.2' id='masonry-js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.masonry.minef70.js?ver=3.1.2b' id='jquery-masonry-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/templatesnext-toolkit/js/owl.carousel.min9e1e.js?ver=1.3.2' id='owl-carousel-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/templatesnext-toolkit/js/jquery.colorbox-minac45.js?ver=1.5.14' id='colorbox-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/templatesnext-toolkit/js/jquery.inview.min8a54.js?ver=1.0.0' id='inview-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/templatesnext-toolkit/js/tx-script4a02.js?ver=2013-07-18' id='tx-script-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/gutentor/assets/library/slick/slick.minc245.js?ver=1.8.1' id='slick-js'></script>
+<script type='text/javascript' src='../wp-content/themes/event-star/acmethemes/core/js/skip-link-focus-fix08e0.js?ver=20130115' id='event-star-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='../wp-content/themes/event-star/assets/library/bootstrap/js/bootstrap.mine485.js?ver=3.3.6' id='bootstrap-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/gutentor/assets/library/wow/wow.min1576.js?ver=1.2.1' id='wow-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/gutentor/assets/library/magnific-popup/jquery.magnific-popup.minf488.js?ver=1.1.0' id='magnific-popup-js'></script>
+<script type='text/javascript' id='event-star-custom-js-extra'>
+/* <![CDATA[ */
+var event_star_ajax = {"ajaxurl":"https:\/\/ieee-ises.org\/2021\/wp-admin\/admin-ajax.php","event_expire_text":"Expired"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/themes/event-star/assets/js/event-star-custom97de.js?ver=1.0.5' id='event-star-custom-js'></script>
+<script type='text/javascript' id='gutentor-block-js-extra'>
+/* <![CDATA[ */
+var gutentorLS = {"fontAwesomeVersion":"5","restNonce":"788297cdee","restUrl":"https:\/\/ieee-ises.org\/2021\/wp-json\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/gutentor/assets/js/gutentor2072.js?ver=3.2.5' id='gutentor-block-js'></script>
+</body>
+
+<!-- Mirrored from ieee-ises.org/2021/panel-discussions/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 18 Nov 2023 05:02:45 GMT -->
+</html>
+<!--Generated by Endurance Page Cache-->
