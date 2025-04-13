@@ -320,7 +320,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='cf7cf-style-css' href='../wp-content/plugins/cf7-conditional-fields/styleb6db.css?ver=2.3.3' type='text/css' media='all' />
 <link rel='stylesheet' id='rt_frontend_style-css' href='../wp-content/plugins/automatic-responsive-tables/css/style8308.css?ver=1ebaba3465f39106375be623a0ebab45' type='text/css' media='all' />
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='art_ie_stylesheet-css' href='https://ieee-ises.org/2020/wp-content/plugins/automatic-responsive-tables/css/style-ie.css?ver=1ebaba3465f39106375be623a0ebab45' type='text/css' media='all' />
+<link rel='stylesheet' id='art_ie_stylesheet-css' href='https://ieee-ises.github.io/IEEE-iSES_2020_Website/wp-content/plugins/automatic-responsive-tables/css/style-ie.css?ver=1ebaba3465f39106375be623a0ebab45' type='text/css' media='all' />
 <![endif]-->
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery.mina7a0.js?ver=3.6.1' id='jquery-core-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
@@ -331,10 +331,10 @@ var accordions_ajax = {"accordions_ajaxurl":"https:\/\/ieee-ises.org\/2020\/wp-a
 </script>
 <script type='text/javascript' src='../wp-content/plugins/accordions/assets/frontend/js/scripts8308.js?ver=1ebaba3465f39106375be623a0ebab45' id='accordions_js-js'></script>
 <!--[if lt IE 9]>
-<script type='text/javascript' src='https://ieee-ises.org/2020/wp-content/themes/online-shop/assets/library/html5shiv/html5shiv.min.js?ver=3.7.3' id='html5shiv-js'></script>
+<script type='text/javascript' src='https://ieee-ises.github.io/IEEE-iSES_2020_Website/wp-content/themes/online-shop/assets/library/html5shiv/html5shiv.min.js?ver=3.7.3' id='html5shiv-js'></script>
 <![endif]-->
 <!--[if lt IE 9]>
-<script type='text/javascript' src='https://ieee-ises.org/2020/wp-content/themes/online-shop/assets/library/respond/respond.min.js?ver=1.4.2' id='respond-js'></script>
+<script type='text/javascript' src='https://ieee-ises.github.io/IEEE-iSES_2020_Website/wp-content/themes/online-shop/assets/library/respond/respond.min.js?ver=1.4.2' id='respond-js'></script>
 <![endif]-->
 <script type='text/javascript' src='../wp-content/plugins/automatic-responsive-tables/js/script8308.js?ver=1ebaba3465f39106375be623a0ebab45' id='rt_frontend_script-js'></script>
 <link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/2407.json" /><link rel="canonical" href="index.html" />
@@ -620,7 +620,7 @@ window.cookieconsent.initialise(json)
 <p style="text-align: center;"><strong>Mr. Rajnish Bajpai, SmartGaon Development Foundation, USA</strong></p>
 <p style="text-align: justify;"><strong>Mr. Rajnish Bajpai</strong> is the Founder &amp; Chairman of the SmartGaon Development Foundation. The foundation provides an outreach platform to non-profits, private/public/government organizations of various sectors to come together for an innovative &amp; collaborative approach towards integrated development of rural areas. He designed a SmartGaon app and platform that not only connects an entire village population internally but also with the smart cities and globally. His innovation &amp; contribution towards rural India is mentioned and admired by Prime Minister of India, Shri Narendra Modi in the nationwide public address program called Mann Ki Baat. He is also a senior product manager at a renowned US-based product company and specialized in agile analytics &amp; digital enterprise transformation. He has a strong interest in building next-generation systems/products with AI and ML to improve productivity.</p>
 <p>&nbsp;</p>
-<p><img decoding="async" loading="lazy" class="size-thumbnail wp-image-2512 aligncenter" src="../wp-content/uploads/2020/12/ramakrishna-oriental-01-150x150.jpg" alt="" width="150" height="150" srcset="https://ieee-ises.org/2020/wp-content/uploads/2020/12/ramakrishna-oriental-01-150x150.jpg 150w, https://ieee-ises.org/2020/wp-content/uploads/2020/12/ramakrishna-oriental-01-300x300.jpg 300w, https://ieee-ises.org/2020/wp-content/uploads/2020/12/ramakrishna-oriental-01.jpg 450w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p><img decoding="async" loading="lazy" class="size-thumbnail wp-image-2512 aligncenter" src="../wp-content/uploads/2020/12/ramakrishna-oriental-01-150x150.jpg" alt="" width="150" height="150" srcset="https://ieee-ises.github.io/IEEE-iSES_2020_Website/wp-content/uploads/2020/12/ramakrishna-oriental-01-150x150.jpg 150w, https://ieee-ises.github.io/IEEE-iSES_2020_Website/wp-content/uploads/2020/12/ramakrishna-oriental-01-300x300.jpg 300w, https://ieee-ises.github.io/IEEE-iSES_2020_Website/wp-content/uploads/2020/12/ramakrishna-oriental-01.jpg 450w" sizes="(max-width: 150px) 100vw, 150px" /></p>
 <p style="text-align: center;"><strong>JVS Ramakrishna </strong></p>
 <p style="text-align: justify;"><strong>JVS Ramakrishna</strong> has round 25 years of experience in Technology, Strategy, Business Development, Global delivery and Building high-performance cross-domain teams. He has worked in the UK, South Africa, Japan, US and India.</p>
 <p style="text-align: justify;">He currently heads a Strategy and Solutions of L&amp;T Smart World which has $1 Billion order book which solves problems using IoT, Integration and Augmented Intelligence technologies. L&amp;T Smart World are pioneers in Smart &amp; Safe City domain and help cities solve complex problems of both physical and digital world in urban infrastructure realm leveraging IoT, AI, Data Sciences, Big Data and communication technologies.</p>
@@ -653,7 +653,7 @@ window.cookieconsent.initialise(json)
     <div id="secondary-right" class="widget-area sidebar secondary-sidebar float-right" role="complementary">
         <div id="sidebar-section-top" class="widget-area sidebar clearfix">
 			<aside id="search-2" class="widget widget_search"><div class="search-block">
-    <form action="https://ieee-ises.org/2020" class="searchform" id="searchform" method="get" role="search">
+    <form action="https://ieee-ises.github.io/IEEE-iSES_2020_Website" class="searchform" id="searchform" method="get" role="search">
         <div>
             <label for="menu-search" class="screen-reader-text"></label>
                         <input type="text"  placeholder="Search"  id="menu-search" name="s" value="">
