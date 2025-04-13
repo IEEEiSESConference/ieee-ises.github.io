@@ -313,16 +313,16 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </li>
 <li id="menu-item-316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-316"><a href="#">Past Conferences</a>
 <ul class="sub-menu">
-	<li id="menu-item-317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-317"><a href="https://ieee-ises.org/2020/">2020 Website</a></li>
+	<li id="menu-item-317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-317"><a href="https://ieee-ises.github.io/IEEE-iSES_2020_Website/">2020 Website</a></li>
 	<li id="menu-item-472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-472"><a href="https://ieeexplore.ieee.org/xpl/conhome/9426059/proceeding">2020 Proceedings</a></li>
-	<li id="menu-item-318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-318"><a href="https://ieee-ises.org/2019/">2019 Website</a></li>
+	<li id="menu-item-318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-318"><a href="https://ieee-ises.github.io/IEEE-iSES_2019_Website/">2019 Website</a></li>
 	<li id="menu-item-319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-319"><a href="https://ieeexplore.ieee.org/xpl/conhome/8977828/proceeding">2019 Proceedings</a></li>
-	<li id="menu-item-320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-320"><a href="https://ieee-ises.org/2018/">2018 Website</a></li>
+	<li id="menu-item-320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-320"><a href="https://ieee-ises.github.io/IEEE-iSES_2018_Website/">2018 Website</a></li>
 	<li id="menu-item-321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-321"><a href="https://ieeexplore.ieee.org/xpl/conhome/8716489/proceeding">2018 Proceedings</a></li>
-	<li id="menu-item-322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-322"><a href="https://ieee-ises.org/2017/">2017 Website</a></li>
+	<li id="menu-item-322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-322"><a href="https://ieee-ises.github.io/IEEE-iSES_2017_Website/">2017 Website</a></li>
 	<li id="menu-item-323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-323"><a href="https://ieeexplore.ieee.org/xpl/conhome/8293729/proceeding">2017 Proceedings</a></li>
 	<li id="menu-item-324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-324"><a href="https://ieeexplore.ieee.org/xpl/conhome/7827705/proceeding">2016 Proceedings</a></li>
-	<li id="menu-item-325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-325"><a href="https://ieee-ises.org/2015/">2015 Website</a></li>
+	<li id="menu-item-325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-325"><a href="https://ieee-ises.github.io/IEEE-iSES_2015_Website/">2015 Website</a></li>
 	<li id="menu-item-326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-326"><a href="https://ieeexplore.ieee.org/xpl/conhome/7434373/proceeding">2015 Proceedings</a></li>
 </ul>
 </li>
@@ -419,7 +419,7 @@ Homepage : <a href="https://www.amrita.edu/faculty/peeta-pati">https://www.amrit
 <li style="text-align: justify;">Issues with processing at scale, cost effectiveness, enablement &amp; change management</li>
 </ul>
 <p style="text-align: justify;"><strong>Speaker Biography :</strong></p>
-<p><img decoding="async" class="size-thumbnail wp-image-537 aligncenter" src="../wp-content/uploads/2021/09/Peeta-Basa-Pati-150x150.jpg" alt="" width="150" height="150" srcset="https://ieee-ises.org/2021/wp-content/uploads/2021/09/Peeta-Basa-Pati-150x150.jpg 150w, https://ieee-ises.org/2021/wp-content/uploads/2021/09/Peeta-Basa-Pati.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<p><img decoding="async" class="size-thumbnail wp-image-537 aligncenter" src="../wp-content/uploads/2021/09/Peeta-Basa-Pati-150x150.jpg" alt="" width="150" height="150" srcset="https://ieee-ises.github.io/IEEE-iSES_2021_Website/wp-content/uploads/2021/09/Peeta-Basa-Pati-150x150.jpg 150w, https://ieee-ises.github.io/IEEE-iSES_2021_Website/wp-content/uploads/2021/09/Peeta-Basa-Pati.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" /></p>
 <p style="text-align: justify;"><em><strong>Dr. Peeta Basa Pati</strong></em> is a professor at Department of CSE, Amrita Vishwa Vidyapeetham, Bangalore. His research interests are in the field of document digitization and information capture. He has close to 20 years of experience in this field which includes 15+ years of industrial experience.</p>
 <p style="text-align: justify;">Prior to joining Amrita, Dr Pati was working at Cognizant Technology Solutions as a chief architect. In this role, he has built and managed IDP systems, implemented and successfully productionized IDP systems for multiple business domains and organizations. As part of this he has experience in dealing with documents which are structured as well as unstructured, type written &amp; handwritten, dealing with documents with graphical information content.</p>
 <p style="text-align: justify;">Dr. Pati completed his Ph. D. &amp; M. Sc. (Engg) from Indian Institute of Science, Bangalore and is an alumnus of NIT Rourkela. He has multiple publications and patents to his credit. He is a senior member of IEEE. He has delivered multiple tutorials in document processing area and has served in the program and technical committees of multiple national and international conferences, besides being a reviewer of papers for conferences and journals.</p>
