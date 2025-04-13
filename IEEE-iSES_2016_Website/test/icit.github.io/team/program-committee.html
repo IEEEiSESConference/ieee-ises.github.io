@@ -1,0 +1,87 @@
+---
+layout: default
+slug: team
+---
+
+<h2>Program Committee</h2>
+
+
+<div class="table-responsive">
+  <table class="table">
+    <tbody>
+ <tr>
+        <th scope="row" colspan="3">Track Chairs</th>
+      </tr>
+      <tr>
+      <td>Name</td><td>Affiliation</td><td>Track</td>
+      </tr>
+      {% for member in site.data.pc %}
+      {% if member.role == 'track chair' %}
+      <tr>
+        <td>
+          <a href="#">{{member.firstName}} {{member.lastName}}</a>
+        </td>
+        <td>
+            {{member.organization}}
+        </td>
+        <td>
+          {{member.track}}
+        </td>
+
+      </tr>
+      {% endif %}
+      {% endfor %}
+   </tbody>
+  </table>
+</div>
+
+
+<div class="table-responsive">
+  <table class="table">
+    <tbody>
+ <tr>
+
+        <th scope="row" colspan="4">Track Chairs &amp; Members</th>
+      </tr>
+      <tr>
+      <td>Name</td><td>Affiliation</td><td>Role</td><td>Track</td>
+      </tr>
+      {% for member in site.data.pc %}
+      <tr>
+        <td>
+        {% if member.role == 'track chair' %}
+          <strong>
+        {% endif %}
+          <a href="#">{{member.firstName}} {{member.lastName}}</a>
+         {% if member.role == 'track chair' %}
+          </strong>
+        {% endif %}
+        </td>
+
+        <td>
+          {% if member.role == 'track chair' %}
+          <strong>
+          {% endif %}
+            {{member.organization}}
+          {% if member.role == 'track chair' %}
+          </strong>
+          {% endif %}
+        </td>
+
+        <td>
+          <strong>{{member.role | capitalize}}</strong></td>
+        <td>
+          {% if member.role == 'track chair' %}
+            <strong>
+          {% endif %}
+          {{member.track}}
+          {% if member.role == 'track chair' %}
+            </strong>
+          {% endif %}
+        </td>
+
+      </tr>
+      {% endfor %}
+   </tbody>
+  </table>
+</div>

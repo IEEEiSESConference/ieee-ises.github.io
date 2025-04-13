@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:26:51	767/767	---M--	404	error ('Not%20Found')	text/html	date:Fri,%2020%20Jun%202014%2019:46:10%20GMT	http://www.ieee-inis.org/robots.txt		(from )
+11:26:51	149/149	---M--	200	added ('OK')	text/html	etag:%2295-52eba2834bae7%22	http://www.ieee-inis.org/	C:/Users/smohanty/Dropbox/SM_Working_DOC/Services/2016/iNIS_2016/IEEE-iNIS-2016-Website/http___www.ieee-inis.org_/www.ieee-inis.org/index.html	(from )
+11:26:51	0/0	---M--	200	added ('OK')	text/html	etag:%220-52eba28377211%22	http://www.ieee-inis.org/blank.html	C:/Users/smohanty/Dropbox/SM_Working_DOC/Services/2016/iNIS_2016/IEEE-iNIS-2016-Website/http___www.ieee-inis.org_/www.ieee-inis.org/blank.html	(from http://www.ieee-inis.org/)
