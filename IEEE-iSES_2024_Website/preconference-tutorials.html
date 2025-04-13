@@ -1,0 +1,661 @@
+<!DOCTYPE HTML>
+<!--
+	Escape Velocity by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+    <!-- v ieee cookie banner v -->
+    <script src="https://cmp.osano.com/AzyzptTmRlqVd2LRf/868a3f52-fe86-4a0a-8d4c-7d633f6821c5/osano.js"></script>
+    <link rel="stylesheet" href="https://cookie-consent.ieee.org/ieee-cookie-banner.css" type="text/css" />
+    <!-- ^ ieee cookie banner ^ -->
+    <title>IEEE-iSES</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+
+    <style>
+        /* Flexbox to align speaker images and info side by side */
+        /* Style for the "Go to Top" button */
+        /* Style for the "Go to Top" button */
+        /* Style for the "Go to Top" button */
+        #goTopBtn {
+            display: none;
+            /* Hidden by default */
+            position: fixed;
+            /* Fixed position on the screen */
+            bottom: 20px;
+            /* 20px from the bottom of the page */
+            right: 20px;
+            /* 20px from the right side of the page */
+            z-index: 99;
+            /* Ensure the button is above other content */
+            background-color: #007bff;
+            /* Blue background color */
+            color: white;
+            /* White text color */
+            border: none;
+            /* No border */
+            outline: none;
+            /* No outline */
+            width: 15px;
+            /* Square width */
+            height: 50px;
+            /* Square height */
+            cursor: pointer;
+            /* Pointer cursor on hover */
+            font-size: 15px;
+            /* Font size for the icon */
+            text-align: center;
+            /* Center the icon/text */
+            line-height: 50px;
+            /* Vertically center the icon/text */
+            transition: background-color 0.3s;
+            /* Smooth transition for hover effects */
+        }
+
+        #goTopBtn:hover {
+            background-color: #0056b3;
+            /* Darker shade of blue on hover */
+        }
+
+        #goTopBtn.show {
+            display: block;
+            /* Make the button visible when needed */
+        }
+
+
+        .speakers {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px 0;
+        }
+
+        .speaker {
+            text-align: center;
+            max-width: 45%;
+        }
+
+        .speaker-img {
+            width: 100%;
+            max-width: 150px;
+            height: auto;
+            margin-bottom: 10px;
+        }
+
+        .bio {
+            margin-top: 20px;
+        }
+
+        p {
+            text-align: justify;
+            color: black;
+        }
+
+        hr {
+            color: black;
+        }
+
+        div h2 {
+            color: brown;
+            font-size: xx-large;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+            color: black;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+
+<body class="homepage is-preload">
+    <div id="page-wrapper">
+
+        <!-- Header -->
+        <section id="header" class="wrapper">
+
+            <!-- Logo -->
+            <div id="logo">
+                <h1>IEEE-iSES</h1>
+                <p style="text-align: center;">16-18 December 2024, New Delhi, India</p>
+            </div>
+            <!-- Nav -->
+            <nav id="nav">
+
+                <ul>
+                    <li class="current"><a href="index.html">Home</a></li>
+                    <li>
+                        <a href="#">About Us</a>
+                        <ul>
+                            <li><a href="#">Committees</a>
+                                <ul>
+                                    <li><a href="steering-committee.html">Steering Committee</a></li>
+                                    <li><a href="organizing-committee.html">Organizing Committee</a></li>
+                                    <li><a href="program-committee.html">Program Committee</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                            <li><a href="sponsorship.html">Sponsorship</a></li>
+                            <li><a href="statements.html">Statements</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">Program</a>
+                        <ul>
+                            <li><a href="#">Live Proceedings</a></li>
+                            <li><a href="program-schedule.html">Program Schedule</a></li>
+                            <li><a href="keynotes.html">Keynotes</a></li>
+                            <li><a href="panel-discussions.html">Panel Discussions</a></li>
+                            <li><a href="preconference-tutorials.html">Preconference Tutorials</a></li>
+                            <li><a href="women-in-engineering.html">Women in Engineering (WIE)</a></li>
+                            <li><a href="best-paper-award.html">Best Paper Awards</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">Authors Information</a>
+                        <ul>
+                            <li><a href="important-dates.html">Important Dates</a></li>
+                            <li><a href="manuscript-information.html">Manuscript Information</a></li>
+                            <li><a href="submission-link.html">Submission Link</a></li>
+                            <li><a href="cfp.html">Call for Papers</a></li>
+                            <li><a href="cfp-srf.html">Call for Papers SRF</a></li>
+                            <li><a href="cfp-rds.html">Call for Papers RDS</a></li>
+                            <li><a href="call-for-dc.html">Call for Design Contest</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">Registration</a>
+                        <ul>
+                            <li><a href="register.html">Register</a></li>
+                            <li><a href="student-support-grants.html">Student Support Grants</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">Venue</a>
+                        <ul>
+                            <li><a href="venue.html">Venue</a></li>
+                            <li><a href="accomodation.html">Accomodation</a></li>
+                            <li><a href="places-to-see.html">Places to See</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">Links</a>
+                        <ul>
+                            <li><a href="https://www.linkedin.com/groups/12506886/">Linkedin Group</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="contact.html">Contact</a>
+                    </li>
+                    <li>
+                        <a href="#">Past Conferences</a>
+                        <ul>
+                            <li><a href="https://ieee-ises.org/IEEE-iSES_2023_Website/ieee-ises.org/2023/">2023
+                                    Website</a></li>
+                            <li><a href="https://ieeexplore.ieee.org/xpl/conhome/10467041/proceeding">2023
+                                    Proceedings</a></li>
+                            <li><a href="https://ieee-ises.org/IEEE-iSES_2022_Website/">2022 Website</a></li>
+                            <li><a href="https://ieeexplore.ieee.org/xpl/conhome/10026847/proceeding">2022
+                                    Proceedings</a></li>
+                            <li><a href="https://ieee-ises.org/IEEE-iSES_2021_Website/">2021 Website</a></li>
+                            <li><a href="https://ieeexplore.ieee.org/xpl/conhome/9700979/proceeding">2021
+                                    Proceedings</a></li>
+                            <li><a href="https://ieee-ises.org/IEEE-iSES_2020_Website/">2020 Website</a></li>
+                            <li><a href="https://ieeexplore.ieee.org/xpl/conhome/9426059/proceeding">2020
+                                    Proceedings</a></li>
+                            <li><a href="https://ieee-ises.org/IEEE-iSES_2019_Website/">2019 Website</a></li>
+                            <li><a href="https://ieeexplore.ieee.org/xpl/conhome/8977828/proceeding">2019
+                                    Proceedings</a></li>
+                            <li><a href="https://ieee-ises.org/IEEE-iSES_2018_Website/">2018 Website</a></li>
+                            <li><a href="https://ieeexplore.ieee.org/xpl/conhome/8716489/proceeding">2018
+                                    Proceedings</a></li>
+                            <li><a href="https://ieee-ises.org/IEEE-iSES_2017_Website/">2017 Website</a></li>
+                            <li><a href="https://ieeexplore.ieee.org/xpl/conhome/8293729/proceeding">2017
+                                    Proceedings</a></li>
+                            <li><a href="https://ieee-ises.org/IEEE-iSES_2016_Website/">2016 Website</a></li>
+                            <li><a href="https://ieeexplore.ieee.org/xpl/conhome/7827705/proceeding">2016
+                                    Proceedings</a></li>
+                            <li><a href="https://ieee-ises.org/IEEE-iSES_2015_Website/">2015 Website</a></li>
+                            <li><a href="https://ieeexplore.ieee.org/xpl/conhome/7434373/proceeding">2015
+                                    Proceedings</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </section>
+
+        <!-- Intro -->
+        <section id="intro" class="wrapper style2">
+            <div class="title">Preconference Tutorials</div>
+            <div class="container">
+                <h2 style="text-align: center;">Tutorial Schedule</h2><br>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Speaker and Designation</th>
+                            <th>Title</th>
+                            <th>Date</th>
+                            <th>Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Prof. Debdeep Mukhopadhyay (Professor, IIT Kharagpur), Prof. Navid Asadi (Professor, University of Florida) and Dr. Shuvodip Maitra
+                                (Postdoctoral fellow, IIT Kharagpur)</td>
+                            <td><a href="#Debdeep" style="color: blue;">Forensics of Electronic Systems: A Hardware
+                                    Security Perspective</a></td>
+                            <td>14th Dec 2024 Saturday</td>
+                            <td>9:00 am - 12:00 noon</td>
+                        </tr>
+                        <tr>
+                            <td>Dr. Raj S. Mitra (Director, Cisma Consultants) and Dr. Ansuman Banerjee (Professor,
+                                Indian Statistical Institute, Kolkata)</td>
+                            <td><a href="#Raj" style="color: blue;">Formal Verification: From Theory to Practice</a>
+                            </td>
+                            <td>14th Dec 2024 Saturday</td>
+                            <td>12:30 pm - 7:00 pm</td>
+                        </tr>
+                        <tr>
+                            <td>Prof. Manan Suri (Associate Professor, IIT Delhi) and Dr. Vivek Parmar (Project
+                                Scientist, IIT Delhi)</td>
+                            <td><a href="#Vivek" style="color: blue;">NVM-based Neuromorphic Computing Hardware:
+                                    Fundamentals and Applications</a></td>
+                            <td>15th Dec 2024 Sunday</td>
+                            <td>9:30 am - 12:30 pm</td>
+                        </tr>
+                        <tr>
+                            <td>Dr. Janakiraman Viraraghavan, Assistant Professor, IIT Madras</td>
+                            <td><a href="#Janakiraman" style="color: blue;">From C to Assembly</a></td>
+                            <td>15th Dec 2024 Sunday</td>
+                            <td>2:00 pm - 5:00 pm</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+
+            <div class="container">
+
+                <div class="tutorial">
+                    <!-- Title -->
+                    <h2 id="Debdeep">Forensics of Electronic Systems: A Hardware Security Perspective</h2>
+                    <br>
+                    <!-- Abstract -->
+                    <p><strong>Abstract:</strong> As electronic hardware systems become increasingly integral to
+                        critical infrastructure, they face heightened risks from sophisticated threats such as Hardware
+                        Trojan insertions and malware, which can compromise their security and reliability. These
+                        malicious interventions, often stealthily embedded during the manufacturing process, pose
+                        significant challenges in ensuring the integrity of electronic components. This talk addresses
+                        the growing concerns surrounding hardware security by exploring advanced techniques and
+                        technologies used in the detection and mitigation of these threats.We begin by introducing the
+                        concept of Hardware Trojans and malware within the context of electronic hardware systems. The
+                        discussion will cover the potential vectors for these malicious insertions, the impact they can
+                        have on system functionality, and the challenges associated with detecting and neutralizing them
+                        in a rapidly evolving technological landscape.Next, we delve into the technological foundations
+                        of semiconductor packages and Printed Circuit Board (PCB) manufacturing. We explore the
+                        differences and advancements in 2D, 2.5D, and 3D process integration, highlighting how each
+                        stage of technological evolution introduces both opportunities for improved performance and new
+                        vulnerabilities for exploitation. The focus then shifts to advanced hardware assurance
+                        techniques for Integrated Circuits (ICs) and PCBs. A key method discussed is the use of a
+                        Focused Ion Beam-Scanning Electron Microscope (FIB-SEM), a powerful tool that enables
+                        high-resolution inspection of ICs. FIB-SEM allows for the precise identification of hardware
+                        anomalies and unauthorized modifications at the microscopic level, making it an essential tool
+                        in the fight against hardware tampering. Complementing this approach is the use of X-ray
+                        Computed Tomography (CT) for reverse engineering and physical assurance of PCBs. X-ray CT
+                        provides non-destructive, high-resolution 3D imaging that can reveal internal structures and
+                        components of PCBs, enabling the detection of hidden modifications or anomalies that might
+                        indicate the presence of a Hardware Trojan or malware. This technique is invaluable for ensuring
+                        the integrity of PCBs without damaging the hardware. Lastly, we explore the role of
+                        laser-assisted probing and Logic State Imaging (LSI) in hardware security. These techniques are
+                        particularly effective for fault-based attack and logic state analysis when the device is under
+                        operation. Laser-assisted fault attack targets specific registers during security critical
+                        operation (like AES encryption) and helps leak secret information. Logic state Analysis LSI
+                        reveals a real-time picture of the inner workings of the device during its operation, to enable
+                        us to reveal internal circuit logic states. These methods allow us a detailed understanding of
+                        the real-time internal workings of electronic components, enabling the detection of any
+                        malicious modifications that could compromise their functionality. This talk provides a
+                        comprehensive overview of the current threats to electronic hardware systems and the advanced
+                        technologies used to ensure their security. By understanding the underlying semiconductor
+                        package technology with advanced inspection and imaging techniques, we can better protect our
+                        electronic infrastructure from the ever-evolving landscape of hardware-based threats.</p>
+
+                    <!-- Speaker Info -->
+                    <div class="speakers">
+                        <!-- Speaker 1 -->
+                        <div class="speaker">
+                            <img src="images/Tutorials/debdeep.png" alt="Prof. Debdeep Mukhopadhyay"
+                                class="speaker-img" />
+                            <h3>Prof. Debdeep Mukhopadhyay</h3>
+                            <p>Professor, Department of Computer Science Engineering Secured Embedded Architecture
+                                Laboratory (SEAL), Indian Institute of Technology Kharagpur</p>
+                        </div>
+                        <div class="speaker">
+                            <img src="images/Tutorials/navidAsadi.png" alt="Prof. Navid Asadi"
+                                class="speaker-img" />
+                            <h3>Prof. Navid Asadi</h3>
+                            <p>Associate Professor, Department of Electrical and Computer Engineering, Security and Assurance Laboratory (SCAN), University of Florida</p>
+                        </div>
+                        <!-- Speaker 2 -->
+                        <div class="speaker">
+                            <img src="images/Tutorials/maitra.png" alt="Dr. Shuvodip Maitra" class="speaker-img" />
+                            <h3>Dr. Shuvodip Maitra</h3>
+                            <p>Postdoctoral fellow, Cyber-Physical Forensics Laboratory (part of SEAL), Department of
+                                Computer Science Engineering, Indian Institute of Technology Kharagpur</p>
+                        </div>
+                    </div>
+
+                    <!-- Biography -->
+                    <div class="bio">
+                        <h4>Biography of tutorial speakers:</h4>
+                        <p><strong>Prof. Debdeep Mukhopadhyay:</strong> Prof. Debdeep Mukhopadhyay is an Institute Chair
+                            Professor at the Department of CSE, IIT Kharagpur, India. At IIT Kharagpur he initiated
+                            Secured Embedded Architecture Laboratory (SEAL), focusing on Hardware-Security. Prior to he
+                            was a visiting Professor in the school of Computer Engineering, NYU Abu Dhabi, and had
+                            visiting positions at NTU Singapore, NYU Shanghai, and Brooklyn. He was also an Assistant
+                            Professor at IIT Madras, and held an adjunct position at IIT Bhubaneshwar. He holds a Ph.D,
+                            M.S., and a B.Tech from IIT Kharagpur. His research interests are on the topics of
+                            Cryptographic Engineering, Micro-architectural security and Hardware-Security. Recently he
+                            is intrigued by adversarial attacks on machine-learning, and encrypted computations, which
+                            includes homomorphic computations and searchable encryptions.</p>
+                        <p>Dr Mukhopadhyay has published more than 250 papers in peer reviewed conferences and journals,
+                            and is in the editorial boards and program committees of several top journals and
+                            conferences. Currently, he is the Editor-in-Chief of the International Association of
+                            Cryptologic Research (IACR)-Transactions in Cryptographic Hardware and Embedded Systems
+                            (TCHES) and is a senior Editor of IEEE Transactions of Information Forensics and Security.
+                        </p>
+                        <p>Debdeep is the recipient of the prestigious Shanti Swarup Bhatnagar Award 2021 for Science
+                            and Technology (highest science honor in India below the age of 45) and is a Fellow of the
+                            Indian National Academy of Engineers, and Fellow of the Asia-Pacific Artificial Intelligence
+                            Association (AAIA) for contributions to Information Security. He was a fellow of C3iHub
+                            (Cyber Security and Cyber Security for Cyber-Physical Systems) Innovation Hub of IIT Kanpur,
+                            and has been enlisted in Asia’s most outstanding researchers compiled by Asian Scientist
+                            Magazine (https://tinyurl.com/2vr8jaks). He was awarded the Qualcomm Faculty Award 2022,
+                            Khosla National Award from IIT Roorkee 2021, DST Swarnajayanti Fellowship 2015-16, INSA
+                            Young Scientist award, INAE Young Engineer award, and Associateship for the Indian Academy
+                            of Sciences and is a senior member of IEEE/ACM. </p>
+                        
+                            <p><strong>Prof. Navid Asadi:</strong> Prof. Navid Asadi is an Associate Professor in the Electrical and Computer
+                                Engineering Department at the University of Florida with an affiliation to the Materials
+                                Science and Engineering department. He investigates novel techniques for electronics
+                                inspection and assurance, system and chip level decomposition and security
+                                assessment, anti-reverse engineering, 3D imaging, invasive and semi-invasive
+                                methods, supply chain security, etc. Dr. Asadi is director of the Security and Assurance
+                                (SCAN) lab house to more than $12M advanced imaging and characterization
+                                equipment. He also serves as the associate director of the Florida Semiconductor
+                                Institute (FSI), and the Microelectronics Security Training (MEST) center which is a
+                                multi-million dollar program to train and reskill the professional engineers in the area of
+                                security. Dr. Asadi has received his NSF CAREER award in 2022 and several best
+                                paper awards from IEEE International Symposium on Hardware Oriented Security and
+                                Trust (HOST) and the ASME International Symposium on Flexible Automation (ISFA).
+                                He was also winner of D.E. Crow Innovation award from University of Connecticut. He is
+                                also founder and the general chair of the IEEE Physical Assurance and Inspection of
+                                Electronics (PAINE) Conference. His projects are sponsored by various government
+                                agencies and industry including but not limited to NSF, AFRL, AFOSR, ONR, SRC,
+                                Meta, Cisco, Analog Devices, etc.
+                                 </p>
+
+                        <p><strong>Dr. Shuvodip Maitra:</strong> Dr. Shuvodip Maitra is currently holding a
+                            Post-Doctoral Position in Cyber-Physical Forensics Laboratory (SEAL), in the Computer
+                            Science and Engineering Department of Indian Institute of Technology Kharagpur, under Prof.
+                            Debdeep Mukopadhyay. Dr. Maitra obtained his Ph.D. in Nanotechnology from the same institute
+                            in December 2021. Previously he obtained his Masters in Technology (M.Tech) Nanotechnology
+                            from Jadavpur University in 2015 and his Bachelors in Technology (B.Tech) in Electronics and
+                            Communications Engineering in 2013 from West Bengal University of Technology (WBUT). Dr.
+                            Maitra has previous research expertise in energy materials, and is currently focussing on IC
+                            and PCB hardware assurance using sophisticated microscopy tools. </p>
+                    </div>
+                </div>
+                <hr>
+                <div class="tutorial">
+                    <!-- Title -->
+                    <h2 id="Raj">Formal Verification: From Theory to Practice</h2>
+                    <br>
+                    <!-- Abstract -->
+                    <p><strong>Abstract:</strong> Modern era has witnessed a dramatic increase in circuit complexity
+                        from a few hundreds of gates to billions and trillions of gates. This has resulted in an almost
+                        insurmountable challenge of verifying that a given circuit has been designed correctly with
+                        respect to its requirements. Evidently, this has become the most dominating task in the chip
+                        design industry. It has been widely acknowledged that verification is often accounting for more
+                        than 70% of the design cycle time – it is also becoming indispensable considering the use of
+                        electronic chips in a wide range of safety critical embedded systems, including medical
+                        instruments, automotive, avionic control systems, and atomic reactors. In the context of
+                        embedded software based control, the verification task has an even bigger challenge of
+                        addressing the correctness concerns for both the hardware and the software running on it.
+                        Traditional simulation-based methods have been the forerunner for the verification task for ages
+                        with an ability to uncover complex design bugs. However, with circuit sizes growing at an
+                        unimaginable pace, these methods are often losing steam. The inability to explore all design
+                        behaviors and expose all design flaws, limits the practical utility of simulation. Formal
+                        verification (FV) has become an interesting alternative given its exhaustiveness and ability to
+                        uncover corner-case bugs. FV has thus established itself as an essential technology during the
+                        past couple of decades to complement the coverage achievable with simulation. In many
+                        disciplines, FV today has become a mandate. The aim of this tutorial is to portray a roadmap of
+                        FV, from its inception to where it stands today. We cover both the theory that drives this
+                        fascinating technology along with a detailed discussion on the techniques, and a practical FV
+                        flow with System Verilog Assertions (SVA), the language of choice for modeling requirements
+                        formally. We conclude with a demonstration of FV.</p>
+
+                    <!-- Speaker Info -->
+                    <div class="speakers">
+                        <!-- Speaker 1 -->
+                        <div class="speaker">
+                            <img src="images/Tutorials/mitra.png" alt="Dr. Raj S. Mitra" class="speaker-img" />
+                            <h3>Dr. Raj S. Mitra</h3>
+                            <p>Director, Cisma Consultants, Bangalore</p>
+                        </div>
+
+                        <!-- Speaker 2 -->
+                        <div class="speaker">
+                            <img src="images/Tutorials/banerjee.png" alt="Dr. Ansuman Banerjee" class="speaker-img" />
+                            <h3>Dr. Ansuman Banerjee</h3>
+                            <p>Professor, Indian Statistical Institute</p>
+                        </div>
+                    </div>
+
+                    <!-- Biography -->
+                    <div class="bio">
+                        <h4>Biography of tutorial speakers:</h4>
+                        <p><strong>Dr. Raj S. Mitra:</strong> Dr. Raj S. Mitra (RSM) received his Btech, Mtech and PhD
+                            degrees in Computer Science from IIT Kharagpur. He is a veteran in the EDA and verification
+                            industry, having worked at Cadence, Synopsys and Interra Systems, and later served as Head
+                            of EDA at Texas Instruments Bangalore. At TI, he had initiated several new methodologies,
+                            including formal verification and high-level synthesis. Currently he is Director at Cisma
+                            Consultants, a subsidiary of Verikwest (USA), and leads projects related to formal
+                            verification, portable stimulus and machine learning there. He has published several
+                            research papers in IEEE transactions journals and conferences, and has served in Technical
+                            Program Committees of DAC and VLSID conferences. </p>
+                        <p><strong>Dr. Ansuman Banerjee:</strong> Dr. Ansuman Banerjee (AB) received his B.E. from
+                            Jadavpur University, and M.S. and Ph.D. degrees from IIT Kharagpur, all in Computer Science.
+                            He is a formal verification expert and has exposure to both the theoretical and practical
+                            aspects of Formal Verification. He has worked on multiple industry projects on FV, both as a
+                            full-time industry person and as an academic consultant. After having a few years in
+                            industry, he joined Indian Statistical Institute as a faculty. He has mentored many doctoral
+                            students in FV. He has published several research papers in IEEE transactions journals and
+                            conferences, and has served in Technical Program Committees of many conferences specializing
+                            in topics in EDA and FV. </p>
+                    </div>
+                </div>
+
+                <hr>
+                <div class="tutorial">
+                    <!-- Title -->
+                    <h2 id="Vivek">NVM-based Neuromorphic Computing Hardware: Fundamentals and Applications</h2>
+                    <br>
+                    <!-- Abstract -->
+                    <p><strong>Abstract:</strong> Neuromorphic computing technologies will be important for the future
+                        of computing. We will review fundamentals of neuromorphic computing algorithms, sensing and
+                        hardware. We highlight characteristics of neuromorphic computing technologies that make them
+                        attractive for the future of computing and discuss opportunities for future development of
+                        algorithms and applications on these systems. We will also briefly review various neuromorphic
+                        hardware devices available currently for researchers to experiment with.
+                    </p>
+                    <p>The next part of the tutorial will dive into implementations of non-volatile memory based
+                        neuromorphic hardware implementations. The tutorial will introduce the audience to various NVM
+                        technologies and their applications to neuromorphic computing both in context of learning as
+                        well as inference operations. The session will conclude with some discussions on performance
+                        characterization and future perspectives.
+                    </p>
+
+                    <!-- Speaker Info -->
+                    <div class="speakers">
+                        <!-- Speaker 1 -->
+                        <div class="speaker">
+                            <img src="images/Tutorials/parmar.png" alt="Dr. Vivek Parmar" class="speaker-img" />
+                            <h3>Dr. Vivek Parmar</h3>
+                            <p>Project Scientist, Department of Electrical Engineering, IIT Delhi</p>
+                        </div>
+
+                        <!-- Speaker 2 -->
+                        <div class="speaker">
+                            <img src="images/Tutorials/manam.png" alt="Dr. Manan Suri" class="speaker-img" />
+                            <h3>Dr. Manan Suri</h3>
+                            <p>Associate Professor, Department of Electrical Engineering, IIT Delhi</p>
+                        </div>
+                    </div>
+
+                    <!-- Biography -->
+                    <div class="bio">
+                        <h4>Biography of tutorial speakers:</h4>
+                        <p><strong>Dr. Vivek Parmar:</strong> Dr. Vivek Parmar is a postdoctoral researcher with the NVM
+                            & Neuromorphic Hardware Research Group at the Department of Electrical Engineering, Indian
+                            Institute of Technology Delhi. His research interests include computer architecture,
+                            neuromorphic computing, in-memory computing, embedded systems, mixed reality and AI
+                            applications. He received his Ph.D. degree in Electrical Engineering from Indian Institute
+                            of Technology Delhi in 2023.</p>
+                        <p><strong>Dr. Manan Suri:</strong> Dr. Manan Suri leads the NVM and Neuromorphic Hardware
+                            Research group at IIT-Delhi. His research interests include Semiconductor Non-Volatile
+                            Memory (NVM) Technology and its Advanced Applications (Neuromorphic, AI, Security,
+                            Computing, Sensing). Dr. Suri has been globally recognized as a leading DeepTech Innovator.
+                            He was selected by MIT Technology Review as one of the world's Top 35 Innovators under the
+                            age of 35 (MIT-TR 35 Global List - 2018) and Top 10 Indian Innovators under 35 (MIT-TR 35
+                            India List - 2018). Dr. Suri received the prestigious IEEE EDS Early Career Award (2018),
+                            Fellowship of AIIA (2024), Young Scientist Award (2017) from The National Academy of
+                            Sciences, Young Engineers Award (2016), from The Institution of Engineers, and Laureat du
+                            Prix (2014) from the French Nanosciences Foundation. Dr. Suri has filed several patents,
+                            authored 120+ publications and led 24+ tech projects as principal investigator. He is the
+                            founder of IIT-Delhi Deeptech startup CYRAN AI Solutions which has developed multiple
+                            innovative technology products and solutions. He also serves as an advisor to leading Tech
+                            Companies and government bodies. Dr. Suri was a visiting scientist at CNRS, France. In past,
+                            he has worked at NXP Semiconductors, Belgium as a Senior Scientist and CEA-LETI, France. Dr.
+                            Suri received his PhD from INP-Grenoble, France and Masters/bachelor’s from Cornell
+                            University, USA.</p>
+                    </div>
+                </div>
+                <hr>
+
+                <div class="tutorial">
+                    <!-- Title -->
+                    <h2 id="Janakiraman">From C to Assembly</h2>
+                    <br>
+                    <!-- Abstract -->
+                    <p><strong>Abstract:</strong> C Programming is a widely popular programming language that finds
+                        applications in software, kernels, and embedded systems. Students, in their undergraduate
+                        degree, do extensive courses in C programming. On the other hand, assembly language allows
+                        direct access to the full potential of a microprocessor in terms of speed and functionality,
+                        which is again dealt with in great detail in various courses. However, two are isolated from
+                        each other and students do not have a clear picture of how a program is translated to assembly
+                        or what happens in various segments of the memory when a C program executes in a microprocessor.
+                        This tutorial will focus “compiling” a C program to assembply lanague and demonstrating the
+                        details, via animations and examples, of what happens in the memory of the processor. The
+                        details of the stack set up for a function, how local variables are allocated and handled will
+                        be dealt with in great detail. Function parameter passing, including that of variable argument
+                        list functions will be done extensively. The tutorial will take you through the basics of the
+                        x86 instructions, mostly encountered in taking a C program to assembly, and then introduce the
+                        audience to inline assembly programming and conclude with a discussion on some advanced topics
+                        of security issues on the stack, efficiency of recursion, and exploiting some hardware loops in
+                        x86 to speed up certain functions like memcpy and strlen. </p>
+
+                    <!-- Speaker Info -->
+                    <div class="speakers">
+                        <!-- Speaker 1 -->
+                        <div class="speaker">
+                            <img src="images/Tutorials/viraraghavan.png" alt="Dr. Janakiraman Viraraghavan"
+                                class="speaker-img" />
+                            <h3>Dr. Janakiraman Viraraghavan</h3>
+                            <p>Assistant Professor, Departmemt of Electrical Engineering, IIT Madras. </p>
+                        </div>
+
+                    </div>
+
+                    <!-- Biography -->
+                    <div class="bio">
+                        <h4>Biography of tutorial speakers:</h4>
+                        <p><strong>Dr. Janakiraman Viraraghavan:</strong> Dr. Janakiraman Viraraghavan is an Assistant
+                            Professor in the Integrated Circuits and Systems group of the Department of Electrical
+                            Engineering at IIT Madras since 2016. He received his Ph.D. in Microelectronics, in 2011,
+                            from the Department of Electrical and Communication at the Indian Institute of Science,
+                            Bangalore. Janakiraman was with the Semiconductor Research and Development Center at IBM
+                            India Pvt. Ltd. since 2011 before moving to GLOBALFOUNDRIES, India in 2015 where he worked
+                            on early technology development of Embedded DRAM and Non-Volatile Memory design,
+                            respectively. He graduated with a B.E degree from the Electronics and Communication
+                            Engineering Department of Rashtreeya Vidyalaya College of Engineering in 2003. His research
+                            interests include hardware implementation of artificial intelligence algorithms and
+                            statistical analysis in VLSI. Janakiraman received the Young Faculty Recognition Award from
+                            IIT Madras in 2019 and the Faculty Partnership Award from IBM in 2024. Janakiraman has been
+                            serving as an associate editor for the Open Journal of Circuits and Systems since 2020.</p>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+
+        <!-- Footer -->
+        <section id="footer" class="wrapper">
+            <div class="container">
+                <div id="copyright">
+                    <ul>
+                        <li>&copy; IEEE-iSES 2015 - 2024</li>
+                        <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!-- "Go to Top" Button -->
+        <button onclick="scrollToTop()" id="goTopBtn" title="Go to Top">Go to Top</button>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+    <script>
+        window.onscroll = function () { showGoTopButton(); };
+
+        function showGoTopButton() {
+            const goTopBtn = document.getElementById("goTopBtn");
+            if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+                goTopBtn.classList.add("show");
+            } else {
+                goTopBtn.classList.remove("show");
+            }
+        }
+
+        function scrollToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+
+    </script>
+
+</body>
+
+</html>
