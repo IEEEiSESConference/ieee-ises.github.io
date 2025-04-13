@@ -707,80 +707,77 @@
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
 	<script>
-		const folderPath = "images/event_photos/";
-const slideshowContainer1 = document.getElementById("slideshow-container-1");
-const slideshowContainer2 = document.getElementById("slideshow-container-2");
-let imageFiles = [];
-let images = [];
-let currentIndex1 = 0; // Default index for first display
-let currentIndex2 = 1; // Default index for second display
+	const folderPath = "images/event_photos/";
+	const slideshowContainer1 = document.getElementById("slideshow-container-1");
+	const slideshowContainer2 = document.getElementById("slideshow-container-2");
+	let imageFiles = [];
+	let images = [];
+	let currentIndex1 = 0;
+	let currentIndex2 = 1;
 
-// Fetch image filenames from the server
-fetch("get_images.php")
-    .then(response => response.json())
-    .then(data => {
-        imageFiles = data;
+	// Fetch image filenames from images.json
+	fetch("images.json")
+		.then(response => response.json())
+		.then(data => {
+			imageFiles = data;
 
-        if (imageFiles.length > 0) {
-            preloadImages();
-            startSlideshow();
-        } else {
-            slideshowContainer1.innerHTML = "<p>No images available.</p>";
-            slideshowContainer2.innerHTML = "<p>No images available.</p>";
-        }
-    })
-    .catch(error => {
-        console.error("Error fetching images:", error);
-        slideshowContainer1.innerHTML = "<p>Error loading images.</p>";
-        slideshowContainer2.innerHTML = "<p>Error loading images.</p>";
-    });
+			if (imageFiles.length > 0) {
+				preloadImages();
+				startSlideshow();
+			} else {
+				slideshowContainer1.innerHTML = "<p>No images available.</p>";
+				slideshowContainer2.innerHTML = "<p>No images available.</p>";
+			}
+		})
+		.catch(error => {
+			console.error("Error fetching images:", error);
+			slideshowContainer1.innerHTML = "<p>Error loading images.</p>";
+			slideshowContainer2.innerHTML = "<p>Error loading images.</p>";
+		});
 
-// Preload images to avoid blank screens during transitions
-function preloadImages() {
-    images = imageFiles.map((file) => {
-        const img = new Image();
-        img.src = folderPath + file;
-        return img;
-    });
-}
+	// Preload images
+	function preloadImages() {
+		images = imageFiles.map((file) => {
+			const img = new Image();
+			img.src = folderPath + file;
+			return img;
+		});
+	}
 
-// Start the slideshow for both containers
-function startSlideshow() {
-    function updateSlideshow(container, index) {
-        // Clear the container
-        container.innerHTML = "";
+	// Start the slideshow
+	function startSlideshow() {
+		function updateSlideshow(container, index) {
+			container.innerHTML = "";
 
-        // Get the current image and add it to the container
-        const currentImage = images[index];
-        currentImage.style.width = "100%";
-        currentImage.style.height = "100%";
-        currentImage.style.objectFit = "cover";
-        currentImage.style.borderRadius = "10px";
-        currentImage.style.opacity = "0"; // Start with hidden image
-        currentImage.style.position = "absolute";
-        currentImage.style.transition = "opacity 1s ease";
-        container.appendChild(currentImage);
+			const currentImage = images[index];
+			currentImage.style.width = "100%";
+			currentImage.style.height = "100%";
+			currentImage.style.objectFit = "cover";
+			currentImage.style.borderRadius = "10px";
+			currentImage.style.opacity = "0";
+			currentImage.style.position = "absolute";
+			currentImage.style.transition = "opacity 1s ease";
 
-        // Trigger fade-in effect
-        setTimeout(() => {
-            currentImage.style.opacity = "1";
-        }, 50);
+			container.appendChild(currentImage);
 
-        return (index + 1) % images.length; // Update the index for the next image
-    }
+			setTimeout(() => {
+				currentImage.style.opacity = "1";
+			}, 50);
 
-    // Update images independently
-    setInterval(() => {
-        currentIndex1 = updateSlideshow(slideshowContainer1, currentIndex1);
-    }, 3000);
+			return (index + 1) % images.length;
+		}
 
-    setInterval(() => {
-        currentIndex2 = updateSlideshow(slideshowContainer2, currentIndex2);
-    }, 3000);
-}
+		// Slideshow for both containers
+		setInterval(() => {
+			currentIndex1 = updateSlideshow(slideshowContainer1, currentIndex1);
+		}, 3000);
 
+		setInterval(() => {
+			currentIndex2 = updateSlideshow(slideshowContainer2, currentIndex2);
+		}, 3000);
+	}
+</script>
 
-	</script>
 </body>
 
 </html>
